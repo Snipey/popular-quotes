@@ -47,5 +47,33 @@
 		"title": "SITA - The Warrior Of Mithila",
 		"author": "Amish Tripathi",
 		"year": 2015
+	},
+	{
+		"quote": "Under the spreading chestnut tree I hold you and you hold me",
+		"character": "Winston",
+		"title": "1984",
+		"author": "George Orwell",
+		"year": 1956
+	},
+	{
+		"quote": "It's the possibility of having a dream come true that makes life interesting.",
+		"character": "",
+		"title": "The Alchemist",
+		"author": "Paulo Coelho",
+		"year": 0000
+	},
+	{
+		"quote": "Still, there are times I am bewildered by each mile I have traveled, each meal I have eaten, each person I have known, each room in which I have slept. As ordinary as it all appears, there are times when it is beyond my imagination.",
+		"character": "",
+		"title": "Interpreter of Maladies",
+		"author": "Jhumpa Lahiri",
+		"year": 0000
+	},
+	{
+		"quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest I go to than I have ever known.",
+		"character": "Sydney Carton",
+		"title": "A Tale of Two Cities",
+		"author": "Charles Dickens",
+		"year": 1859
 	}
 ]
