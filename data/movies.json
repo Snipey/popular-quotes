@@ -1,16 +1,42 @@
 [
 	{
-		"quote": "TEST1",
-		"character": "heros",
-		"title": "Avengers",
-		"actor": "Marvel cast",
-		"year": 2010
+		"quote": "I am Iron Man",
+		"character": "Tony Stark",
+		"title": "Avengers : Endgame",
+		"actor": "Robert Downey Jr.",
+		"year": 2019
 	},
 	{
-		"quote": "TEST2",
-		"character": "don",
-		"title": "Don",
-		"actor": "SRK",
-		"year": 2012
-	}
+		"quote": "We'll do it together.",
+		"character": "Captain America",
+		"title": "Avengers : Age of Ultron",
+		"actor": "Chris Evans",
+		"year": 2015
+	},
+  {
+		"quote": "Black widow",
+		"character": "Natasha Sebastian",
+		"title": "Fire woman",
+		"actor": "Amy Jackson",
+		"year": 2020
+  },
+  {
+    "quote": "I'll be back",
+    "character": "The Terminator",
+    "title": "Terminator",
+    "actor": "Arnold Schwarzenegger",
+    "year": 1984
+  },
+  {
+    "quote": "Hasta la vista, baby",
+    "character": "The Terminator",
+    "title": "Terminator 2: Judgement Day",
+    "year": 1991
+  },
+  {
+    "quote": "My CPU is a neural-net processor; a learning computer. But Skynet presets the switch to read-only when we're sent out alone.",
+    "character": "The Terminator",
+    "title": "Terminator 2: Judgement Day",
+    "year": 1991
+  }
 ]
