@@ -13,7 +13,7 @@
 		"author": "J.K. Rowling",
 		"year": 2000
 	},
-  {
+    {
 		"quote":"Sometimes when you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations.",
 		"character": "",
 		"title": "Steve Jobs - Life By Design",
@@ -48,7 +48,7 @@
 		"author": "Amish Tripathi",
 		"year": 2015
 	},
-  {
+    {
 		"quote": "If people like you,the will listen you, if they trust you, they will do business with you",
 		"character": "[Narrator]",
 		"title": "The art of story selling",
@@ -75,8 +75,8 @@
 		"title": "The Godfather",
 		"author": "Mario Puzo",
 		"year": 1969
-  },
-  {
+    },
+    {
 		"quote": "It's the possibility of having a dream come true that makes life interesting.",
 		"character": "",
 		"title": "The Alchemist",
@@ -97,15 +97,14 @@
 		"title": "On the Shortness of Life",
 		"author": "Seneca 49AD",
 		"year": 0000
-  },
-  {
+    },
+    {
 		"quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest I go to than I have ever known.",
 		"character": "Sydney Carton",
 		"title": "A Tale of Two Cities",
 		"author": "Charles Dickens",
 		"year": 1859
-	}
-	,
+	},
 	{
 		"quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest I go to than I have ever known.",
 		"character": "Sydney Carton",
@@ -246,5 +245,5 @@
 		"author": "J. K. Rowling",
 		"year": 2003
 	}
-
+	
 ]
