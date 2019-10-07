@@ -136,4 +136,84 @@
         "episode": 8,
         "year": 1995
     },
+    {
+        "quote": "All right, kids, I gotta get to work. If I don't input those numbers...it doesn't make much of a difference.",
+        "character": "Chandler",
+        "title": "Friends",
+        "season": 1,
+        "episode": 3,
+        "year": 1994
+    },
+    {
+        "quote": "Man this is weird. You ever realize Captain Crunch's eyebrows are actually on his hat?",
+        "character": "Joey",
+        "title": "Friends",
+        "season": 2,
+        "episode": 16,
+        "year": 1996
+    },
+    {
+        "quote": "You think that's what's weird? Joey, the man's been captain of a cereal for the last 40 years.",
+        "character": "Chandler",
+        "title": "Friends",
+        "season": 2,
+        "episode": 16,
+        "year": 1996
+    },
+    {
+        "quote": "My motto is get out before they go down.",
+        "character": "Monica",
+        "title": "Friends",
+        "season": 2,
+        "episode": 21,
+        "year": 1996
+    },
+    {
+        "quote": "That is so not my motto.",
+        "character": "Joey",
+        "title": "Friends",
+        "season": 2,
+        "episode": 21,
+        "year": 1996
+    },
+    {
+        "quote": "They're still not coming on, man! And the lotion and the powder have made a paste!",
+        "character": "Ross",
+        "title": "Friends",
+        "season": 5,
+        "episode": 11,
+        "year": 1999
+    },
+    {
+        "quote": "Look around you guys this was your first home and it was a happy place filled with love and laughter but more importantly because it was rent controlled it was a freakin steel",
+        "character": "Chandler",
+        "title": "Friends",
+        "season": 10,
+        "episode": 18,
+        "year": 2004
+    },
+    {
+        "quote": "Chandler. I sensed it was you.",
+        "character": "Ross",
+        "title": "Friends",
+        "season": 6,
+        "episode": 17,
+        "year": 2000
+    },
+    {
+        "quote": "'Unagi.' I'm always aware.",
+        "character": "Ross",
+        "title": "Friends",
+        "season": 6,
+        "episode": 17,
+        "year": 2000
+    },
+    {
+        "quote": "Are you aware that unagi is an eel?",
+        "character": "Chandler",
+        "title": "Friends",
+        "season": 6,
+        "episode": 17,
+        "year": 2000
+    },
 ]
