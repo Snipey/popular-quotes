@@ -1,23 +1,9 @@
 [
 	{
-		"quote": "TEST",
-		"character": "",
-		"title": "",
-		"author": "",
-		"year": 2001
-	},
-	{
-		"quote": "TES312312T2",
-		"character": "",
-		"title": "",
-		"author": "",
-		"year": 2001
-	},
-	{
-		"quote": "TEST1",
-		"character": "",
-		"title": "",
-		"author": "",
-		"year": 2019
+		"quote": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends",
+		"character": "Albus Dumbledore",
+		"title": "Harry Potter and the Sorcerer’s Stone",
+		"author": "J.K Rowling",
+		"year": 2002
 	}
 ]
