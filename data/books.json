@@ -1,5 +1,19 @@
 [
 	{
+		"quote": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends",
+		"character": "Albus Dumbledore",
+		"title": "Harry Potter and the Sorcerer’s Stone",
+		"author": "J.K Rowling",
+		"year": 2002
+  },
+  {
+		"quote": "It matters not what someone is born, but what they grow to be.",
+		"character": "Professor Albus Dumbledore",
+		"title": "Harry Potter and the Goblet of Fire",
+		"author": "J.K. Rowling",
+		"year": 2000
+	},
+    {
 		"quote":"Sometimes when you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations.",
 		"character": "",
 		"title": "Steve Jobs - Life By Design",
@@ -34,6 +48,13 @@
 		"author": "Amish Tripathi",
 		"year": 2015
 	},
+    {
+		"quote": "If people like you,the will listen you, if they trust you, they will do business with you",
+		"character": "[Narrator]",
+		"title": "The art of story selling",
+		"author":"keshav lal",
+		"year":"2015"
+	},
 	{
 		"quote":"You will need to be mature and pragmatic. You must use your heart to decide the destination, but use your head to plot the journey.",
 		"character": "",
@@ -49,17 +70,233 @@
 		"year": 1956
 	},
 	{
+	  "quote": "Once you've got a task to do, it's better to do it than live with the fear of it.",
+	  "character": "Logen Ninefingers",
+	  "title": "The Blade Itself",
+	  "author": "Joe Abercrombie",
+	  "year": 2006
+	},
+	{
+	  "quote": "When you can't cheat the game, you'd best find a means to cheat the players.",
+	  "character": "Locke Lamora",
+	  "title": "Red Seas Under Red Skies",
+	  "author": "Scott Lynch",
+	  "year": 2007
+	},
+	{
+	  "quote": "All of the best motives boiled down to a single, driving emotion.",
+	  "character": "Waxillium",
+	  "title": "The Alloy of Law",
+	  "author": "Brandon Sanderson",
+	  "year": 2011
+	},
+	{
+	  "quote": "There are three things all wise men fear: the sea in storm, a night with no moon, and the anger of a gentle man.",
+	  "character": "Kvothe",
+	  "title": "The Name of the Wind.",
+	  "author": "Patrick Rothfuss",
+	  "year": 2007
+	},
+	{
+	  "quote": "Half of seeming clever is keeping your mouth shut at the right times.",
+	  "character": "Kvothe",
+	  "title": "The Wise Man's Fear",
+	  "author": "Patrick Rothfuss",
+	  "year": 2011
+	},
+	{
+		"quote": "I'll make him an offer he can't refuse.",
+		"character": "Don Vito Corleone",
+		"title": "The Godfather",
+		"author": "Mario Puzo",
+		"year": 1969
+  },
+  {
 		"quote": "It's the possibility of having a dream come true that makes life interesting.",
 		"character": "",
 		"title": "The Alchemist",
 		"author": "Paulo Coelho",
-		"year": 0000
+		"year": 1988
 	},
 	{
 		"quote": "Still, there are times I am bewildered by each mile I have traveled, each meal I have eaten, each person I have known, each room in which I have slept. As ordinary as it all appears, there are times when it is beyond my imagination.",
 		"character": "",
 		"title": "Interpreter of Maladies",
 		"author": "Jhumpa Lahiri",
+		"year": 1999
+	},
+	{
+		"quote": "I hope you're pleased with yourselves. We could all have been killed - or worse, expelled",
+		"character": "Hermione Granger",
+		"title": "Harry Potter and the Sorcerer's Stone",
+		"author": "J. K. Rowling",
+		"year": 1997
+	},
+	{
+		"quote": "The truth. It is a beautiful and terrible thing, and should therefore be treated with great caution.",
+		"character": "Albus Percival Wulfric Brian Dumbledore",
+		"title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J. K. Rowling",
+		"year": 1997
+	},
+		"quote": "It is not that we have a short time to live, but that we waste a lot of it.",
+		"character": "",
+		"title": "On the Shortness of Life",
+		"author": "Seneca 49AD",
 		"year": 0000
+  },
+  {
+		"quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest I go to than I have ever known.",
+		"character": "Sydney Carton",
+		"title": "A Tale of Two Cities",
+		"author": "Charles Dickens",
+		"year": 1859
+	},
+	{
+		"quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest I go to than I have ever known.",
+		"character": "Sydney Carton",
+		"title": "A Tale of Two Cities",
+		"author": "Charles Dickens",
+		"year": 1859
+	},
+	{
+		"quote": "All we have to decide is what to do with the time that is given us.",
+		"character": "Gandalf",
+		"title": "The Fellowship of the Ring",
+		"author": "J.R.R. Tolkein",
+		"year": 1954
+	},
+	{
+		"quote": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. You’re on your own. And you know what you know. And YOU are the one who’ll decide where to go…",
+		"character": "you",
+		"title": "Oh, the Places You’ll Go!",
+		"author": "Dr Seuss",
+		"year": 1990
+	},
+	{
+		"quote": "It matters not what someone is born, but what they grow to be.",
+		"character": "Professor Albus Dumbledore",
+		"title": "Harry Potter and the Goblet of Fire",
+		"author": "J.K. Rowling",
+		"year": 2000
+	},
+	{
+		"quote": "Whenever you feel like criticizing anyone … just remember that all the people in this world haven’t had the advantages that you’ve had.",
+		"character": "Nick Carraway",
+		"title": "The Great Gatsby",
+		"author": "F. Scott Fitzgerald",
+		"year": 1925
+	},
+	{
+		"quote": "Real courage is when you know you’re licked before you begin, but you begin anyway and see it through no matter what.",
+		"character": "Atticus Finch",
+		"title": "To Kill a Mockingbird",
+		"author": "Harper Lee",
+		"year": 1960
+	},
+	{
+		"quote": "We are such stuff as dreams are made on, and our little life is rounded with a sleep.",
+		"character": "Prospero",
+		"title": "The Tempest",
+		"author": "William Shakespeare",
+		"year": 1611
+	},
+	{
+		"quote": "Not all those who wander are lost.",
+		"character": "Gandalf",
+		"title": "The Fellowship of the Ring",
+		"author": "J.R.R. Tolkein",
+		"year": 1954
+	},
+	{
+		"quote": "The Answer to the ultimate question of Life, The Universe and Everything is…42!",
+		"character": "Deep Thought",
+		"title": "The Hitchhiker’s Guide to the Galaxy",
+		"author": "Douglas Adams",
+		"year": 1979
+	},
+	{
+		"quote": "Even the darkest night will end and the sun will rise.",
+		"character": "Jean Valjean",
+		"title": "Les Miserables",
+		"author": "Victor Hugo",
+		"year": 1862
+	},
+	{
+		"quote": "Beware for I am fearless, and therefore powerful.",
+		"character": "frankenstein's monster",
+		"title": "Frankenstein",
+		"author": "Mary Shelley",
+		"year": 1823
+	},
+	{
+		"quote": "I can’t go back to yesterday because I was a different person then.",
+		"character": "Alice",
+		"title": "Alice in Wonderland",
+		"author": "Lewis Carrol",
+		"year": 1865
+	},
+	{
+		"quote": "Great men are not born great. They grow great.",
+		"character": "Mario Puzo",
+		"title": "The Godfather",
+		"author": "Mario Puzo",
+		"year": 1969
+	},
+	{
+		"quote": "Seek freedom and become captive of your desires, seek discipline and find your liberty.",
+		"character": "",
+		"title": "Dune",
+		"author": "Frank Herbert",
+		"year": 1965
+	},
+	{
+		"quote": "Humanity does not ask us to be happy. It merely asks us to be brilliant on its behalf.",
+		"character": "Mazer Rackham",
+		"title": "Ender’s Game",
+		"author": "Orson Scott Card",
+		"year": 1985
+	},
+	{
+		"quote": "And don’t spend your time lookin’ around for something you want that can’t be found.",
+		"character": "Baloo",
+		"title": "The Jungel Book",
+		"author": "Rudyard Kipling",
+		"year": 1894
+	},
+	{
+		"quote": "People generally see what they look for, and hear what they listen for.",
+		"character": "Judge Taylor",
+		"title": "To Kill a Mockingbird",
+		"author": "Harper Lee",
+		"year": 1960
+	},
+	{
+		"quote": "It takes something more than intelligence to act intelligently.",
+		"character": "Fyodor Dostoyevsky",
+		"title": "Crime and Punishment",
+		"author": "Fyodor Dostoyevsky",
+		"year": 1866
+	},
+	{
+		"quote": "It does not do to dwell on dreams and forget to live.",
+		"character": "Albus Dumbledore",
+		"title": "Harry Potter and the Philosopher's Stone",
+		"author": "J. K. Rowling",
+		"year": 1997
+	},
+	{
+		"quote": "It is our choices, Harry, that show what we truly are, far more than our abilities.",
+		"character": "Albus Percival Wulfric Brian Dumbledore",
+		"title": "Harry Potter and the Chamber of Secrets",
+		"author": "J. K. Rowling",
+		"year": 1997
+	},
+		"quote": "We’ve all got both light and dark inside us. What matters is the part we choose to act on. That’s who we really are.",
+		"character": "Sirius Black",
+		"title": " Harry Potter and the Order of the Phoenix",
+		"author": "J. K. Rowling",
+		"year": 2003
 	}
+	
 ]
