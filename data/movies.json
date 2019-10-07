@@ -1,20 +1,6 @@
 [
 	{
-		"quote": "TEST",
-		"character": "",
-		"title": "",
-		"actor": "",
-		"year": 2001
-	},
-	{
-		"quote": "TE32312ST2",
-		"character": "",
-		"title": "",
-		"actor": "",
-		"year": 2001
-	},
-	{
-		"quote": "TEST2",
+		"quote": "TEST1",
 		"character": "heros",
 		"title": "Avengers",
 		"actor": "Marvel cast",
