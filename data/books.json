@@ -53,13 +53,34 @@
 		"character": "",
 		"title": "The Alchemist",
 		"author": "Paulo Coelho",
-		"year": 0000
+		"year": 1988
 	},
 	{
 		"quote": "Still, there are times I am bewildered by each mile I have traveled, each meal I have eaten, each person I have known, each room in which I have slept. As ordinary as it all appears, there are times when it is beyond my imagination.",
 		"character": "",
 		"title": "Interpreter of Maladies",
 		"author": "Jhumpa Lahiri",
-		"year": 0000
+		"year": 1999
+	},
+	{
+		"quote": "I hope you're pleased with yourselves. We could all have been killed - or worse, expelled",
+		"character": "Hermione Granger",
+		"title": "Harry Potter and the Sorcerer's Stone",
+		"author": "J. K. Rowling",
+		"year": 1997
+	},
+	{
+		"quote": "The truth. It is a beautiful and terrible thing, and should therefore be treated with great caution.",
+		"character": "Albus Percival Wulfric Brian Dumbledore",
+		"title": "Harry Potter and the Sorcerer's Stone",
+		"author": "J. K. Rowling",
+		"year": 1997
+	},
+	{
+		"quote": "It is our choices, Harry, that show what we truly are, far more than our abilities.",
+		"character": "Albus Percival Wulfric Brian Dumbledore",
+		"title": "Harry Potter and the Chamber of Secrets",
+		"author": "J. K. Rowling",
+		"year": 2003
 	}
 ]
