@@ -3,7 +3,7 @@ language: node_js
 node_js:
   - '10'
 
-branches:
+branch:
   only:
     - master
 
@@ -16,3 +16,12 @@ cache:
 
 script:
   - npm run test
+
+deploy:
+  provider: npm
+  email: "$EMAIL"
+  api_key:
+    secure: "$NPM_API_KEY"
+  on:
+    tags: true
+    repo: snipey/popular-quotes
