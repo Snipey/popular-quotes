@@ -1,12 +1,12 @@
 [
 	{
 		"quote": "TEST",
-		"person": "",
+		"person": "abc",
 		"year": 2001
 	},
 	{
 		"quote": "T32312",
-		"person": "",
+		"person": "abc",
 		"year": 2001
 	}
 ]
