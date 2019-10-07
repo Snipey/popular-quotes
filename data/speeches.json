@@ -1,17 +1,17 @@
 [
 	{
-		"quote": "TEST",
-		"person": "",
-		"year": 2001
+		"quote": "That's one small step for man, one giant leap for mankind.",
+		"person": "Neil Armstrong",
+		"year": 1969
 	},
 	{
-		"quote": "T32312",
-		"person": "",
-		"year": 2001
+		"quote": "Those who make peaceful revolution impossible will make violent revolution inevitable.",
+		"person": "John F. Kennedy",
+		"year": 1962
 	},
 	{
-		"quote": "T4260",
-		"person": "",
-		"year": 2008
+		"quote": "The true value of a human being is determined primarily by how he has attained liberation from the self.",
+		"person": "Einstein",
+		"year": 1932
 	}
 ]
