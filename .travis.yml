@@ -24,4 +24,4 @@ deploy:
     secure: "$NPM_API_KEY"
   on:
     tags: true
-    repo: snipey/popular-quotes
+    repo: Snipey/popular-quotes
