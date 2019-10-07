@@ -19,5 +19,24 @@
 		"title": "Fire woman",
 		"actor": "Amy Jackson",
 		"year": 2020
-	}
+  },
+  {
+    "quote": "I'll be back",
+    "character": "The Terminator",
+    "title": "Terminator",
+    "actor": "Arnold Schwarzenegger",
+    "year": 1984
+  },
+  {
+    "quote": "Hasta la vista, baby",
+    "character": "The Terminator",
+    "title": "Terminator 2: Judgement Day",
+    "year": 1991
+  },
+  {
+    "quote": "My CPU is a neural-net processor; a learning computer. But Skynet presets the switch to read-only when we're sent out alone.",
+    "character": "The Terminator",
+    "title": "Terminator 2: Judgement Day",
+    "year": 1991
+  }
 ]
