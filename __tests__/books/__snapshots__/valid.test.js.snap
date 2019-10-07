@@ -4,9 +4,9 @@ exports[`is the Book quote valid All items need to have a author 1`] = `
 Object {
   "author": Any<String>,
   "character": "",
-  "quote": "TEST",
-  "title": "",
-  "year": 2001,
+  "quote": "Sometimes when you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations.",
+  "title": "Steve Jobs - Life By Design",
+  "year": 2017,
 }
 `;
 
@@ -14,88 +14,338 @@ exports[`is the Book quote valid All items need to have a author 2`] = `
 Object {
   "author": Any<String>,
   "character": "",
-  "quote": "TES312312T2",
-  "title": "",
-  "year": 2001,
+  "quote": "Who you are is defined by what you’re willing to struggle for.",
+  "title": "The Subtle Art of Not Giving a F*ck",
+  "year": 2016,
+}
+`;
+
+exports[`is the Book quote valid All items need to have a author 3`] = `
+Object {
+  "author": Any<String>,
+  "character": "",
+  "quote": "This is the most simple and basic component of life: our struggles determine our successes.",
+  "title": "The Subtle Art of Not Giving a F*ck",
+  "year": 2016,
+}
+`;
+
+exports[`is the Book quote valid All items need to have a author 4`] = `
+Object {
+  "author": Any<String>,
+  "character": "",
+  "quote": "love is a decision, not just a feeling.",
+  "title": "I Tagged Her In My Heart.",
+  "year": 2017,
+}
+`;
+
+exports[`is the Book quote valid All items need to have a author 5`] = `
+Object {
+  "author": Any<String>,
+  "character": "",
+  "quote": "You live in Ram's kingdom, hold your head high. Fight for justise. Treat all as equal. Protect the weak. Know that dharma is above all. Hold your head high, You live in the kingdom of Ram.",
+  "title": "RAM- The Scion Of Ikshvaku",
+  "year": 2015,
+}
+`;
+
+exports[`is the Book quote valid All items need to have a author 6`] = `
+Object {
+  "author": Any<String>,
+  "character": "",
+  "quote": "You will need to be mature and pragmatic. You must use your heart to decide the destination, but use your head to plot the journey.",
+  "title": "SITA - The Warrior Of Mithila",
+  "year": 2015,
+}
+`;
+
+exports[`is the Book quote valid All items need to have a author 7`] = `
+Object {
+  "author": Any<String>,
+  "character": "Winston",
+  "quote": "Under the spreading chestnut tree I hold you and you hold me",
+  "title": "1984",
+  "year": 1956,
 }
 `;
 
 exports[`is the Book quote valid All items need to have a character 1`] = `
 Object {
-  "author": "",
+  "author": "George Beahm",
   "character": Any<String>,
-  "quote": "TEST",
-  "title": "",
-  "year": 2001,
+  "quote": "Sometimes when you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations.",
+  "title": "Steve Jobs - Life By Design",
+  "year": 2017,
 }
 `;
 
 exports[`is the Book quote valid All items need to have a character 2`] = `
 Object {
-  "author": "",
+  "author": "Mark Manson",
   "character": Any<String>,
-  "quote": "TES312312T2",
-  "title": "",
-  "year": 2001,
+  "quote": "Who you are is defined by what you’re willing to struggle for.",
+  "title": "The Subtle Art of Not Giving a F*ck",
+  "year": 2016,
+}
+`;
+
+exports[`is the Book quote valid All items need to have a character 3`] = `
+Object {
+  "author": "Mark Manson",
+  "character": Any<String>,
+  "quote": "This is the most simple and basic component of life: our struggles determine our successes.",
+  "title": "The Subtle Art of Not Giving a F*ck",
+  "year": 2016,
+}
+`;
+
+exports[`is the Book quote valid All items need to have a character 4`] = `
+Object {
+  "author": "Anuj Tiwari",
+  "character": Any<String>,
+  "quote": "love is a decision, not just a feeling.",
+  "title": "I Tagged Her In My Heart.",
+  "year": 2017,
+}
+`;
+
+exports[`is the Book quote valid All items need to have a character 5`] = `
+Object {
+  "author": "Amish Tripathi",
+  "character": Any<String>,
+  "quote": "You live in Ram's kingdom, hold your head high. Fight for justise. Treat all as equal. Protect the weak. Know that dharma is above all. Hold your head high, You live in the kingdom of Ram.",
+  "title": "RAM- The Scion Of Ikshvaku",
+  "year": 2015,
+}
+`;
+
+exports[`is the Book quote valid All items need to have a character 6`] = `
+Object {
+  "author": "Amish Tripathi",
+  "character": Any<String>,
+  "quote": "You will need to be mature and pragmatic. You must use your heart to decide the destination, but use your head to plot the journey.",
+  "title": "SITA - The Warrior Of Mithila",
+  "year": 2015,
+}
+`;
+
+exports[`is the Book quote valid All items need to have a character 7`] = `
+Object {
+  "author": "George Orwell",
+  "character": Any<String>,
+  "quote": "Under the spreading chestnut tree I hold you and you hold me",
+  "title": "1984",
+  "year": 1956,
 }
 `;
 
 exports[`is the Book quote valid All items need to have a quote 1`] = `
 Object {
-  "author": "",
+  "author": "George Beahm",
   "character": "",
   "quote": Any<String>,
-  "title": "",
-  "year": 2001,
+  "title": "Steve Jobs - Life By Design",
+  "year": 2017,
 }
 `;
 
 exports[`is the Book quote valid All items need to have a quote 2`] = `
 Object {
-  "author": "",
+  "author": "Mark Manson",
   "character": "",
   "quote": Any<String>,
-  "title": "",
-  "year": 2001,
+  "title": "The Subtle Art of Not Giving a F*ck",
+  "year": 2016,
+}
+`;
+
+exports[`is the Book quote valid All items need to have a quote 3`] = `
+Object {
+  "author": "Mark Manson",
+  "character": "",
+  "quote": Any<String>,
+  "title": "The Subtle Art of Not Giving a F*ck",
+  "year": 2016,
+}
+`;
+
+exports[`is the Book quote valid All items need to have a quote 4`] = `
+Object {
+  "author": "Anuj Tiwari",
+  "character": "",
+  "quote": Any<String>,
+  "title": "I Tagged Her In My Heart.",
+  "year": 2017,
+}
+`;
+
+exports[`is the Book quote valid All items need to have a quote 5`] = `
+Object {
+  "author": "Amish Tripathi",
+  "character": "",
+  "quote": Any<String>,
+  "title": "RAM- The Scion Of Ikshvaku",
+  "year": 2015,
+}
+`;
+
+exports[`is the Book quote valid All items need to have a quote 6`] = `
+Object {
+  "author": "Amish Tripathi",
+  "character": "",
+  "quote": Any<String>,
+  "title": "SITA - The Warrior Of Mithila",
+  "year": 2015,
+}
+`;
+
+exports[`is the Book quote valid All items need to have a quote 7`] = `
+Object {
+  "author": "George Orwell",
+  "character": "Winston",
+  "quote": Any<String>,
+  "title": "1984",
+  "year": 1956,
 }
 `;
 
 exports[`is the Book quote valid All items need to have a title 1`] = `
 Object {
-  "author": "",
+  "author": "George Beahm",
   "character": "",
-  "quote": "TEST",
+  "quote": "Sometimes when you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations.",
   "title": Any<String>,
-  "year": 2001,
+  "year": 2017,
 }
 `;
 
 exports[`is the Book quote valid All items need to have a title 2`] = `
 Object {
-  "author": "",
+  "author": "Mark Manson",
   "character": "",
-  "quote": "TES312312T2",
+  "quote": "Who you are is defined by what you’re willing to struggle for.",
   "title": Any<String>,
-  "year": 2001,
+  "year": 2016,
+}
+`;
+
+exports[`is the Book quote valid All items need to have a title 3`] = `
+Object {
+  "author": "Mark Manson",
+  "character": "",
+  "quote": "This is the most simple and basic component of life: our struggles determine our successes.",
+  "title": Any<String>,
+  "year": 2016,
+}
+`;
+
+exports[`is the Book quote valid All items need to have a title 4`] = `
+Object {
+  "author": "Anuj Tiwari",
+  "character": "",
+  "quote": "love is a decision, not just a feeling.",
+  "title": Any<String>,
+  "year": 2017,
+}
+`;
+
+exports[`is the Book quote valid All items need to have a title 5`] = `
+Object {
+  "author": "Amish Tripathi",
+  "character": "",
+  "quote": "You live in Ram's kingdom, hold your head high. Fight for justise. Treat all as equal. Protect the weak. Know that dharma is above all. Hold your head high, You live in the kingdom of Ram.",
+  "title": Any<String>,
+  "year": 2015,
+}
+`;
+
+exports[`is the Book quote valid All items need to have a title 6`] = `
+Object {
+  "author": "Amish Tripathi",
+  "character": "",
+  "quote": "You will need to be mature and pragmatic. You must use your heart to decide the destination, but use your head to plot the journey.",
+  "title": Any<String>,
+  "year": 2015,
+}
+`;
+
+exports[`is the Book quote valid All items need to have a title 7`] = `
+Object {
+  "author": "George Orwell",
+  "character": "Winston",
+  "quote": "Under the spreading chestnut tree I hold you and you hold me",
+  "title": Any<String>,
+  "year": 1956,
 }
 `;
 
 exports[`is the Book quote valid All items need to have a year 1`] = `
 Object {
-  "author": "",
+  "author": "George Beahm",
   "character": "",
-  "quote": "TEST",
-  "title": "",
+  "quote": "Sometimes when you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations.",
+  "title": "Steve Jobs - Life By Design",
   "year": Any<Number>,
 }
 `;
 
 exports[`is the Book quote valid All items need to have a year 2`] = `
 Object {
-  "author": "",
+  "author": "Mark Manson",
   "character": "",
-  "quote": "TES312312T2",
-  "title": "",
+  "quote": "Who you are is defined by what you’re willing to struggle for.",
+  "title": "The Subtle Art of Not Giving a F*ck",
+  "year": Any<Number>,
+}
+`;
+
+exports[`is the Book quote valid All items need to have a year 3`] = `
+Object {
+  "author": "Mark Manson",
+  "character": "",
+  "quote": "This is the most simple and basic component of life: our struggles determine our successes.",
+  "title": "The Subtle Art of Not Giving a F*ck",
+  "year": Any<Number>,
+}
+`;
+
+exports[`is the Book quote valid All items need to have a year 4`] = `
+Object {
+  "author": "Anuj Tiwari",
+  "character": "",
+  "quote": "love is a decision, not just a feeling.",
+  "title": "I Tagged Her In My Heart.",
+  "year": Any<Number>,
+}
+`;
+
+exports[`is the Book quote valid All items need to have a year 5`] = `
+Object {
+  "author": "Amish Tripathi",
+  "character": "",
+  "quote": "You live in Ram's kingdom, hold your head high. Fight for justise. Treat all as equal. Protect the weak. Know that dharma is above all. Hold your head high, You live in the kingdom of Ram.",
+  "title": "RAM- The Scion Of Ikshvaku",
+  "year": Any<Number>,
+}
+`;
+
+exports[`is the Book quote valid All items need to have a year 6`] = `
+Object {
+  "author": "Amish Tripathi",
+  "character": "",
+  "quote": "You will need to be mature and pragmatic. You must use your heart to decide the destination, but use your head to plot the journey.",
+  "title": "SITA - The Warrior Of Mithila",
+  "year": Any<Number>,
+}
+`;
+
+exports[`is the Book quote valid All items need to have a year 7`] = `
+Object {
+  "author": "George Orwell",
+  "character": "Winston",
+  "quote": "Under the spreading chestnut tree I hold you and you hold me",
+  "title": "1984",
   "year": Any<Number>,
 }
 `;
