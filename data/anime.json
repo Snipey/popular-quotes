@@ -1,14 +1,14 @@
 [
 	{
-		"quote": "TEST",
-		"episode": 123,
-		"title": "",
+		"quote": "Freedom is something that you need to actively acquire. It's not something that's given with no strings attached. To be free means to take responsibility, and to prepare yourself for what's to come.",
+		"episode": 12,
+		"title": "Charles Beams",
 		"year": 2001
 	},
 	{
-		"quote": "TEST4342342",
+		"quote": "All we can do is live until the day we die. Control what we can...and fly free!",
 		"episode": 123,
-		"title": "",
-		"year": 2001
+		"title": "Deneil Young",
+		"year": 2005
 	}
 ]

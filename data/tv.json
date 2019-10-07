@@ -1,18 +1,18 @@
 [
 	{
-		"quote": "TEST",
-		"character": "",
-		"title": "",
+		"quote": "I wish there was a way to know you're in the good old days before you've actually left them",
+		"character": "Andy Bernard",
+		"title": " The Office",
 		"season": 1,
 		"episode": 1,
 		"year": 2001
 	},
 	{
-		"quote": "76745645",
-		"character": "",
-		"title": "",
-		"season": 1,
-		"episode": 1,
-		"year": 2001
+		"quote": "And what exactly do you think fairy tales are? They are a reminder that our lives will get better if we just hold on to hope. Your happy ending may not be what you expect, but that is what will make it so special.",
+		"character": "Snow White",
+		"title": "Once Upon a Time",
+		"season": 3,
+		"episode": 2,
+		"year": 2007
 	}
 ]

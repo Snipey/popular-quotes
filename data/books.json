@@ -1,16 +1,16 @@
 [
 	{
-		"quote": "TEST",
-		"character": "",
-		"title": "",
-		"author": "",
+		"quote": "There is some good in this world, and it’s worth fighting for.",
+		"character": "John",
+		"title": " The Two Towers",
+		"author": "J.R.R. Tolkien",
 		"year": 2001
 	},
 	{
-		"quote": "TES312312T2",
-		"character": "",
-		"title": "",
-		"author": "",
-		"year": 2001
+		"quote": "Well-behaved women seldom make history.",
+		"character": "Maria",
+		"title": " Well-Behaved Women Seldom Make History",
+		"author": "Laurel Thatcher Ulrich",
+		"year": 2003
 	}
 ]

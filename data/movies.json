@@ -1,24 +1,16 @@
 [
 	{
-		"quote": "TEST",
-		"character": "",
-		"title": "",
-		"actor": "",
-		"year": 2001
-	},
-	,
-	{
-		"quote": "TE32312ST2",
-		"character": "",
-		"title": "",
-		"actor": "",
-		"year": 2001
+		"quote": "Love means never having to say you're sorry.",
+		"character": "Ryan O’Neal",
+		"title": "Love Story",
+		"actor": "Peter Bogdanovich",
+		"year": 1970
 	},
 	{
-		"quote": "TE323",
-		"character": "Nicole Kidman",
-		"title": "Aquaman",
-		"actor": "Jason Momoa",
-		"year": 2018
+		"quote": "They may take our lives, but they'll never take our freedom!",
+		"character": "Navy",
+		"title": "Braveheart",
+		"actor": " Mel Gibson'",
+		"year": 1995
 	}
 ]
