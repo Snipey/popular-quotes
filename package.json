@@ -4,8 +4,7 @@
   "description": "A package for popular quotes from various media.",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
-    "update-snap": "jest --updateSnapshot"
+    "test": "jest -u"
   },
   "repository": {
     "type": "git",
