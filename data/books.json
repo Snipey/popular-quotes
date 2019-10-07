@@ -1,24 +1,86 @@
 [
 	{
-		"quote": "TEST",
+		"quote": "It matters not what someone is born, but what they grow to be.",
+		"character": "Professor Albus Dumbledore",
+		"title": "Harry Potter and the Goblet of Fire",
+		"author": "J.K. Rowling",
+		"year": 2000
+	},
+  {
+		"quote":"Sometimes when you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations.",
 		"character": "",
-		"title": "",
-		"author": "",
-		"year": 2001
+		"title": "Steve Jobs - Life By Design",
+		"author": "George Beahm",
+		"year": 2017
 	},
 	{
-		"quote": "TES312312T2",
+		"quote":"Who you are is defined by what you’re willing to struggle for.",
 		"character": "",
-		"title": "",
-		"author": "",
-		"year": 2001
+		"title": "The Subtle Art of Not Giving a F*ck",
+		"author": "Mark Manson",
+		"year": 2016
 	},
 	{
+		"quote":"This is the most simple and basic component of life: our struggles determine our successes.",
+		"character": "",
+		"title": "The Subtle Art of Not Giving a F*ck",
+		"author": "Mark Manson",
+		"year": 2016
+	},
+	{
+		"quote": "love is a decision, not just a feeling.",
+		"character": "",
+		"title": "I Tagged Her In My Heart.",
+		"author": "Anuj Tiwari",
+		"year": 2017
+	},
+	{
+		"quote": "You live in Ram's kingdom, hold your head high. Fight for justise. Treat all as equal. Protect the weak. Know that dharma is above all. Hold your head high, You live in the kingdom of Ram.",
+		"character": "",
+		"title": "RAM- The Scion Of Ikshvaku",
+		"author": "Amish Tripathi",
+		"year": 2015
+	},
+  {
 		"quote": "If people like you,the will listen you, if they trust you, they will do business with you",
 		"character": "[Narrator]",
 		"title": "The art of story selling",
 		"author":"keshav lal",
 		"year":"2015"
+	},
+	{
+		"quote":"You will need to be mature and pragmatic. You must use your heart to decide the destination, but use your head to plot the journey.",
+		"character": "",
+		"title": "SITA - The Warrior Of Mithila",
+		"author": "Amish Tripathi",
+		"year": 2015
+	},
+	{
+		"quote": "Under the spreading chestnut tree I hold you and you hold me",
+		"character": "Winston",
+		"title": "1984",
+		"author": "George Orwell",
+		"year": 1956
+	},
+	{
+		"quote": "It's the possibility of having a dream come true that makes life interesting.",
+		"character": "",
+		"title": "The Alchemist",
+		"author": "Paulo Coelho",
+		"year": 0000
+	},
+	{
+		"quote": "Still, there are times I am bewildered by each mile I have traveled, each meal I have eaten, each person I have known, each room in which I have slept. As ordinary as it all appears, there are times when it is beyond my imagination.",
+		"character": "",
+		"title": "Interpreter of Maladies",
+		"author": "Jhumpa Lahiri",
+		"year": 0000
+	},
+	{
+		"quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest I go to than I have ever known.",
+		"character": "Sydney Carton",
+		"title": "A Tale of Two Cities",
+		"author": "Charles Dickens",
+		"year": 1859
 	}
 ]
-

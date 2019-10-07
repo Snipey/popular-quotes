@@ -1,14 +1,20 @@
 [
 	{
-		"quote": "TEST",
-		"episode": 123,
-		"title": "",
+		"quote": "I'll become the pirate king.",
+		"episode": 1,
+		"title": "Monkey D. Luffy",
+		"year": 1998
+	},
+	{
+		"quote": "LIVE LIKE A LEGEND",
+		"episode": 12,
+		"title": "BAKI THE GRAPPLER",
 		"year": 2001
 	},
 	{
-		"quote": "TEST4342342",
-		"episode": 123,
+		"quote": "TEST404",
+		"episode": 666,
 		"title": "",
-		"year": 2001
+		"year": 2000
 	}
 ]
