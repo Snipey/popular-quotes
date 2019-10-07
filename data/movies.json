@@ -1,22 +1,119 @@
 [
 	{
-		"quote": "TEST",
-		"character": "",
-		"title": "",
-		"actor": "",
-		"year": 2001
+		"quote": "I am Iron Man",
+		"character": "Tony Stark",
+		"title": "Avengers : Endgame",
+		"actor": "Robert Downey Jr.",
+		"year": 2019
 	},
 	{
-		"quote": "TE32312ST2",
-		"character": "",
-		"title": "",
-		"actor": "",
-		"year": 2001
-	},{
+		"quote": "Great men are not born great, they grow great.",
+		"character": "Don Vito Corleone",
+		"title": "The Godfather",
+		"actor": "Marlon Brando",
+		"year": 1972
+	},
+	{
+		"quote": "It's nothing personal, it's just business.",
+		"character": "Don Vito Corleone",
+		"title": "The Godfather",
+		"actor": "Marlon Brando",
+		"year": 1972
+	},
+	{
+		"quote": "A man who doesn't spend time with his family can never be a real man.",
+		"character": "Don Vito Corleone",
+		"title": "The Godfather",
+		"actor": "Marlon Brando",
+		"year": 1972
+	},
+	{
+		"quote": "A friend should always underestimate your virtues and an enemy overestimate your faults",
+		"character": "Don Vito Corleone",
+		"title": "The Godfather",
+		"actor": "Marlon Brando",
+		"year": 1972
+	},
+	{
+		"quote": "I have learned more in the streets than in any classroom.",
+		"character": "Don Vito Corleone",
+		"title": "The Godfather",
+		"actor": "Marlon Brando",
+		"year": 1972
+	},
+	{
+		"quote": "Friendship is everything. Friendsip is more than a talent. It is more than the government. It is almost the equal to family.",
+		"character": "Don Vito Corleone",
+		"title": "The Godfather",
+		"actor": "Marlon Brando",
+		"year": 1972
+	},
+	{
+		"quote": "Never let anyone know what you are thinking.",
+		"character": "Michael Corleone",
+		"title": "The Godfather II",
+		"actor": "Al Pacino",
+		"year": 1974
+	},
+	{
+		"quote": "I don't like violence, Tim. I'm a bussinessman. Blood is a big expense.",
+		"character": "Sollozzo",
+		"title": "The Godfather II",
+		"actor": "Sollozzo",
+		"year": 1974
+	},
+	{
+		"quote": "I respect those that tell me the truth, no matter how hard it is.",
+		"character": "Michael Corleone",
+		"title": "The Godfather II",
+		"actor": "Al Pacino",
+		"year": 1974
+	},
+	{
+		"quote": "I asked God for a bike, but I know God doesn't work that way. So I stole a bike and asked him for forgiveness",
+		"character": "Michael Corleone",
+		"title": "The Godfather II",
+		"actor": "Al Pacino",
+		"year": 1974
+	},
+	{
+		"quote": "Revenge is a dish best served cold.",
+		"character": "Don Vito Corleone",
+		"title": "The Godfather",
+		"actor": "Marlon Brando",
+		"year": 1972
+	},
+  {
+		"quote": "We'll do it together.",
+		"character": "Captain America",
+		"title": "Avengers : Age of Ultron",
+		"actor": "Chris Evans",
+		"year": 2015
+	},
+  {
 		"quote": "Black widow",
 		"character": "Natasha Sebastian",
 		"title": "Fire woman",
 		"actor": "Amy Jackson",
 		"year": 2020
-	}
+  },
+  {
+    "quote": "I'll be back",
+    "character": "The Terminator",
+    "title": "Terminator",
+    "actor": "Arnold Schwarzenegger",
+    "year": 1984
+  },
+  {
+    "quote": "Hasta la vista, baby",
+    "character": "The Terminator",
+    "title": "Terminator 2: Judgement Day",
+    "year": 1991
+  },
+  {
+    "quote": "My CPU is a neural-net processor; a learning computer. But Skynet presets the switch to read-only when we're sent out alone.",
+    "character": "The Terminator",
+    "title": "Terminator 2: Judgement Day",
+    "year": 1991
+  }
 ]

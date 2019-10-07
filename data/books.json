@@ -1,5 +1,19 @@
 [
 	{
+		"quote": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends",
+		"character": "Albus Dumbledore",
+		"title": "Harry Potter and the Sorcerer’s Stone",
+		"author": "J.K Rowling",
+		"year": 2002
+  },
+  {
+		"quote": "It matters not what someone is born, but what they grow to be.",
+		"character": "Professor Albus Dumbledore",
+		"title": "Harry Potter and the Goblet of Fire",
+		"author": "J.K. Rowling",
+		"year": 2000
+	},
+  {
 		"quote":"Sometimes when you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations.",
 		"character": "",
 		"title": "Steve Jobs - Life By Design",
@@ -34,6 +48,13 @@
 		"author": "Amish Tripathi",
 		"year": 2015
 	},
+  {
+		"quote": "If people like you,the will listen you, if they trust you, they will do business with you",
+		"character": "[Narrator]",
+		"title": "The art of story selling",
+		"author":"keshav lal",
+		"year":"2015"
+	},
 	{
 		"quote":"You will need to be mature and pragmatic. You must use your heart to decide the destination, but use your head to plot the journey.",
 		"character": "",
@@ -49,6 +70,13 @@
 		"year": 1956
 	},
 	{
+		"quote": "I'll make him an offer he can't refuse.",
+		"character": "Don Vito Corleone",
+		"title": "The Godfather",
+		"author": "Mario Puzo",
+		"year": 1969
+  },
+  {
 		"quote": "It's the possibility of having a dream come true that makes life interesting.",
 		"character": "",
 		"title": "The Alchemist",
@@ -63,10 +91,18 @@
 		"year": 0000
 	},
 	{
+
 		"quote": "It is not that we have a short time to live, but that we waste a lot of it.",
 		"character": "",
 		"title": "On the Shortness of Life",
-		"author": "Seneca",
+		"author": "Seneca 49AD",
 		"year": 0000
+  },
+  {
+		"quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest I go to than I have ever known.",
+		"character": "Sydney Carton",
+		"title": "A Tale of Two Cities",
+		"author": "Charles Dickens",
+		"year": 1859
 	}
 ]
