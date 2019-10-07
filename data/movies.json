@@ -7,10 +7,24 @@
 		"year": 1970
 	},
 	{
+
 		"quote": "They may take our lives, but they'll never take our freedom!",
 		"character": "Navy",
 		"title": "Braveheart",
 		"actor": " Mel Gibson'",
 		"year": 1995
+
+		"quote": "TE32312ST2",
+		"character": "",
+		"title": "",
+		"actor": "",
+		"year": 2001
+	},{
+		"quote": "Black widow",
+		"character": "Natasha Sebastian",
+		"title": "Fire woman",
+		"actor": "Amy Jackson",
+		"year": 2020
+
 	}
 ]
