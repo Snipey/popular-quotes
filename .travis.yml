@@ -15,7 +15,7 @@ cache:
     - 'node_modules'
 
 script:
-  - npm run test
+  - npm test -- -u
 
 deploy:
   provider: npm
