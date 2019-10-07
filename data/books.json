@@ -70,35 +70,69 @@
 		"year": 1956
 	},
 	{
+	  "quote": "Once you've got a task to do, it's better to do it than live with the fear of it.",
+	  "character": "Logen Ninefingers",
+	  "title": "The Blade Itself",
+	  "author": "Joe Abercrombie",
+	  "year": 2006
+	},
+	{
+	  "quote": "When you can't cheat the game, you'd best find a means to cheat the players.",
+	  "character": "Locke Lamora",
+	  "title": "Red Seas Under Red Skies",
+	  "author": "Scott Lynch",
+	  "year": 2007
+	},
+	{
+	  "quote": "All of the best motives boiled down to a single, driving emotion.",
+	  "character": "Waxillium",
+	  "title": "The Alloy of Law",
+	  "author": "Brandon Sanderson",
+	  "year": 2011
+	},
+	{
+	  "quote": "There are three things all wise men fear: the sea in storm, a night with no moon, and the anger of a gentle man.",
+	  "character": "Kvothe",
+	  "title": "The Name of the Wind.",
+	  "author": "Patrick Rothfuss",
+	  "year": 2007
+	},
+	{
+	  "quote": "Half of seeming clever is keeping your mouth shut at the right times.",
+	  "character": "Kvothe",
+	  "title": "The Wise Man's Fear",
+	  "author": "Patrick Rothfuss",
+	  "year": 2011
+	},
+	{
 		"quote": "I'll make him an offer he can't refuse.",
 		"character": "Don Vito Corleone",
 		"title": "The Godfather",
 		"author": "Mario Puzo",
 		"year": 1969
-    },
-    {
+  },
+  {
 		"quote": "It's the possibility of having a dream come true that makes life interesting.",
 		"character": "",
 		"title": "The Alchemist",
 		"author": "Paulo Coelho",
-		"year": 0000
+		"year": 1988
 	},
 	{
 		"quote": "Still, there are times I am bewildered by each mile I have traveled, each meal I have eaten, each person I have known, each room in which I have slept. As ordinary as it all appears, there are times when it is beyond my imagination.",
 		"character": "",
 		"title": "Interpreter of Maladies",
 		"author": "Jhumpa Lahiri",
-		"year": 0000
+		"year": 1999
 	},
 	{
-
 		"quote": "It is not that we have a short time to live, but that we waste a lot of it.",
 		"character": "",
 		"title": "On the Shortness of Life",
 		"author": "Seneca 49AD",
 		"year": 0000
-    },
-    {
+  },
+  {
 		"quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest I go to than I have ever known.",
 		"character": "Sydney Carton",
 		"title": "A Tale of Two Cities",
