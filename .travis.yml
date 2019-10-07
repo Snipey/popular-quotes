@@ -15,4 +15,5 @@ cache:
     - 'node_modules'
 
 script:
+  - npm run update-snap
   - npm run test
