@@ -55,3 +55,7 @@ A popular quotes package to get you quotes from various sources of media
 		"year": 2001
 	}
 ```
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/Snipey/popular-quotes/badge.svg?style=beer-square)](https://beerpay.io/Snipey/popular-quotes)  [![Beerpay](https://beerpay.io/Snipey/popular-quotes/make-wish.svg?style=flat-square)](https://beerpay.io/Snipey/popular-quotes?focus=wish)
