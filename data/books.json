@@ -1,16 +1,16 @@
 [
 	{
 		"quote": "TEST",
-		"character": "",
-		"title": "",
-		"author": "",
+		"character": "Katnis everdeen,peta mellark",
+		"title": "Hunger games",
+		"author": "Suzanne collins",
 		"year": 2001
 	},
 	{
 		"quote": "TES312312T2",
-		"character": "",
-		"title": "",
-		"author": "",
+		"character": "Newbie",
+		"title": "Maze runner",
+		"author": "James dashner",
 		"year": 2001
 	}
 ]
