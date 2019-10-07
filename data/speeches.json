@@ -1,32 +1,47 @@
 [
 	{
+		"quote": "That's one small step for man, one giant leap for mankind.",
+		"person": "Neil Armstrong",
+		"year": 1969
+	},
+	{
+		"quote": "Those who make peaceful revolution impossible will make violent revolution inevitable.",
+		"person": "John F. Kennedy",
+		"year": 1962
+	},
+	{
+		"quote": "The true value of a human being is determined primarily by how he has attained liberation from the self.",
+		"person": "Einstein",
+		"year": 1932
+	},
+  {
 		"quote": "We speak not only to tell other people what we think, but to tell ourselves what we think. Speech is a part of thought.",
 		"person": "Oliver Sacks",
-		"year": "--"
+		"year": 0
 	},
 	{
 		"quote": "Not in his speech, not in his thoughts, I see his greatness, only in his actions, in his life.",
 		"person": "Hermann Hesse",
-		"year": "--"
+		"year": 0
 	},
 	{
 		"quote": "To assess the quality of thoughts of people, don't listen to their words, but watch their actions.",
 		"person": "Amit Kalantri",
-		"year": "--"
+		"year": 0
 	},
 	{
 		"quote": "A good traveler leaves no tracks. Good speech lacks fault-finding.",
 		"person": "Lao Tzu",
-		"year": "--"
+		"year": 0
 	},
 	{
 		"quote": "To assess the quality of thoughts of people, don't listen to their words, but watch their actions.",
 		"person": "Amit Kalantri",
-		"year": "--"
+		"year": 0
 	},
 	{
 		"quote": "Freedom of the press is limited to those who own one.",
 		"person": "A.J. Liebling",
-		"year": "--"
+		"year": 0
   }
 ]
