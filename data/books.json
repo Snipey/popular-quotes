@@ -47,5 +47,40 @@
 		"title": "1984",
 		"author": "George Orwell",
 		"year": 1956
+	},
+	{
+	  "quote": "Once you've got a task to do, it's better to do it than live with the fear of it.",
+	  "character": "Logen Ninefingers",
+	  "title": "The Blade Itself",
+	  "author": "Joe Abercrombie",
+	  "year": 2006
+	},
+	{
+	  "quote": "When you can't cheat the game, you'd best find a means to cheat the players.",
+	  "character": "Locke Lamora",
+	  "title": "Red Seas Under Red Skies",
+	  "author": "Scott Lynch",
+	  "year": 2007
+	},
+	{
+	  "quote": "All of the best motives boiled down to a single, driving emotion.",
+	  "character": "Waxillium",
+	  "title": "The Alloy of Law",
+	  "author": "Brandon Sanderson",
+	  "year": 2011
+	},
+	{
+	  "quote": "There are three things all wise men fear: the sea in storm, a night with no moon, and the anger of a gentle man.",
+	  "character": "Kvothe",
+	  "title": "The Name of the Wind.",
+	  "author": "Patrick Rothfuss",
+	  "year": 2007
+	},
+	{
+	  "quote": "Half of seeming clever is keeping your mouth shut at the right times.",
+	  "character": "Kvothe",
+	  "title": "The Wise Man's Fear",
+	  "author": "Patrick Rothfuss",
+	  "year": 2011
 	}
 ]
