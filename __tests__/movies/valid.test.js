@@ -4,7 +4,7 @@ describe('is the Movie quote valid', () => {
 	test('All items need to have a year', () => {
 		data.forEach((quotes) => {
 			expect(quotes).toMatchSnapshot({
-			  year: expect.any(Number || null)
+			  year: expect.any(Number)
 			});
 		});
 	});
