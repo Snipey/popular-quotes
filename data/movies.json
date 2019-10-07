@@ -97,12 +97,75 @@
 		"actor": "Chris Evans",
 		"year": 2015
 	},
-  {
-		"quote": "Black widow",
-		"character": "Natasha Sebastian",
-		"title": "Fire woman",
-		"actor": "Amy Jackson",
-		"year": 2020
+	{
+		"quote": "For once, I am in complete agreement with my friend here. I think we should all get up and leave this place immediately. You know what those things can do? Suck the paint off your house and give your family a permanent orange afro.",
+		"character": "Austin Millbarge",
+		"title": "Spies Like Us",
+		"actor": "Dan Aykroyd",
+		"year": 1985
+	},
+	{
+		"quote": "Walk on road. Mmm? Walk right side, safe. Walk left side, safe. Walk middle, sooner or later, get squish just like grape. Here karate same thing. Either you karate do yes, or karate do no. You karate do guess so, squish, just like grape.",
+		"character": "Mr. Miyagi",
+		"title": "The Karate Kid",
+		"actor": "Pat Morita",
+		"year": 1984
+	},
+	{
+		"quote": "If my calculations are correct, when this baby hits 88 miles per hour, you're going to see some serious shit.",
+		"character": "Dr. Emmett Brown",
+		"title": "Back to the Future",
+		"actor": "Christopher Lloyd",
+		"year": 1985
+	},
+	{
+		"quote": "I do have a test today. That wasn't bullshit. It's on European Socialism. I mean, really, what's the point? I'm not European. I don't plan on being European. So who gives a crap if they're socialists? The could be fascist anarchists. It still wouldn't change the fact that I don't own a car.",
+		"character": "Ferris Bueller",
+		"title": "Ferris Bueller's Day Off",
+		"actor": "Matthew Broderick",
+		"year": 1986
+	},
+	{
+		"quote": "If I'm wrong, nothing happens! We go to jail. Peacefully, quietly, we'll enjoy it. But if I'm right, and we can stop this thing... Lenny... you, will have save the lives of millions of registered voters.",
+		"character": "Peter Venkman",
+		"title": "Ghostbusters",
+		"actor": "Bill Murray",
+		"year": 1984
+	},
+	{
+		"quote": "Pinchers of peril! You guys, I've been saved by my pinchers of peril!",
+		"character": "Data",
+		"title": "The Goonies",
+		"actor": "Ke Huy Quan",
+		"year": 1985
+	},
+	{
+		"quote": "Have fun storming the castle!",
+		"character": "Miracle Max",
+		"title": "The Princess Bride",
+		"actor": "Billy Crystal",
+		"year": 1987
+	},
+	{
+		"quote": "Come out to the coast. We'll get together. Have a few laughs.",
+		"character": "John McClane",
+		"title": "Die Hard",
+		"actor": "Bruce Willis",
+		"year": 1988
+	},
+	{
+		"quote": "Ah, well, I attended Juilliard, I'm a graduate of the Harvard Business School, I travel quite extensively, I lived through the Black Plague, and I had a pretty good time during that. I've seen The Exorcist about a hundred and sixty-seven times, and it keeps getting funnier every single time I see it, not to mention the fact that you're talking to a dead guy, now what do you think?! You think I'm qualified?",
+		"character": "Betelgeuse",
+		"title": "Beetlejuice",
+		"actor": "Michael Keaton",
+		"year": 1988
+	},
+	{
+		"quote": "Here's the bottom line, Wyatt. I'm telling Mom and Dad everything. I'm even considering making up some shit.",
+		"character": "Chet Donnelly",
+		"title": "Weird Science",
+		"actor": "Bill Paxton",
+		"year": 1985
   },
   {
     "quote": "I'll be back",
