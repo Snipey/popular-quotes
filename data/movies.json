@@ -1,17 +1,10 @@
 [
 	{
-		"quote": "TEST",
-		"character": "",
-		"title": "",
-		"actor": "",
-		"year": 2001
-	},
-	{
-		"quote": "TE32312ST2",
-		"character": "",
-		"title": "",
-		"actor": "",
-		"year": 2001
+		"quote": "I am Iron Man",
+		"character": "Tony Stark",
+		"title": "Avengers : Endgame",
+		"actor": "Robert Downey Jr.",
+		"year": 2019
 	},
 	{
 		"quote": "Great men are not born great, they grow great.",
@@ -89,11 +82,38 @@
 		"title": "The Godfather",
 		"actor": "Marlon Brando",
 		"year": 1972
-	},{
+	},
+  {
+		"quote": "We'll do it together.",
+		"character": "Captain America",
+		"title": "Avengers : Age of Ultron",
+		"actor": "Chris Evans",
+		"year": 2015
+	},
+  {
 		"quote": "Black widow",
 		"character": "Natasha Sebastian",
 		"title": "Fire woman",
 		"actor": "Amy Jackson",
 		"year": 2020
-	}
+  },
+  {
+    "quote": "I'll be back",
+    "character": "The Terminator",
+    "title": "Terminator",
+    "actor": "Arnold Schwarzenegger",
+    "year": 1984
+  },
+  {
+    "quote": "Hasta la vista, baby",
+    "character": "The Terminator",
+    "title": "Terminator 2: Judgement Day",
+    "year": 1991
+  },
+  {
+    "quote": "My CPU is a neural-net processor; a learning computer. But Skynet presets the switch to read-only when we're sent out alone.",
+    "character": "The Terminator",
+    "title": "Terminator 2: Judgement Day",
+    "year": 1991
+  }
 ]
