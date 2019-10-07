@@ -1,3 +1,15 @@
+# Hacktoberfest!
+![GitHub Hacktoberfest combined status (suggestion label override)](https://img.shields.io/github/hacktoberfest/2019/snipey/popular-quotes?style=for-the-badge&suggestion_label=help%20wanted)
+
+![GitHub issues](https://img.shields.io/github/issues/snipey/popular-quotes?style=for-the-badge)
+![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/snipey/popular-quotes?label=pull%20requests&style=for-the-badge)
+
+
+![Travis (.com)](https://img.shields.io/travis/com/snipey/popular-quotes?style=for-the-badge)
+![Code Climate maintainability](https://img.shields.io/codeclimate/maintainability/snipey/popular-quotes?style=for-the-badge)
+![Discord](https://img.shields.io/discord/535881918483398676?style=for-the-badge)
+![npm](https://img.shields.io/npm/dw/popular-quotes?style=for-the-badge)
+![npm bundle size](https://img.shields.io/bundlephobia/min/popular-quotes?style=for-the-badge)
 # popular-quotes
 A popular quotes package to get you quotes from various sources of media
 
@@ -55,6 +67,16 @@ A popular quotes package to get you quotes from various sources of media
 		"year": 2001
 	}
 ```
+# Social
+
+![Twitter Follow](https://img.shields.io/twitter/follow/snipeydev?color=blue&style=for-the-badge&logo=twitter)
+[![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com)
+
+![GitHub watchers](https://img.shields.io/github/watchers/snipey/popular-quotes?style=for-the-badge&logo=github)
+![GitHub stars](https://img.shields.io/github/stars/snipey/popular-quotes?style=for-the-badge&logo=github)
+### Dont forget to star the repo
+
+
 ## Support on Beerpay
 Hey dude! Help me out for a couple of :beers:!
 
