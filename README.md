@@ -72,9 +72,9 @@ A popular quotes package to get you quotes from various sources of media
 ![Twitter Follow](https://img.shields.io/twitter/follow/snipeydev?color=blue&style=for-the-badge&logo=twitter)
 [![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com)
 
+### Dont forget to star the repo
 ![GitHub watchers](https://img.shields.io/github/watchers/snipey/popular-quotes?style=for-the-badge&logo=github)
 ![GitHub stars](https://img.shields.io/github/stars/snipey/popular-quotes?style=for-the-badge&logo=github)
-### Dont forget to star the repo
 
 
 ## Support on Beerpay
