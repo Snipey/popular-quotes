@@ -20,6 +20,116 @@ Object {
 }
 `;
 
+exports[`is the Movie quote valid All items need to have a actor 3`] = `
+Object {
+  "actor": Any<String>,
+  "character": "Don Vito Corleone",
+  "quote": "Great men are not born great, they grow great.",
+  "title": "The Godfather",
+  "year": 1972,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a actor 4`] = `
+Object {
+  "actor": Any<String>,
+  "character": "Don Vito Corleone",
+  "quote": "It's nothing personal, it's just business.",
+  "title": "The Godfather",
+  "year": 1972,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a actor 5`] = `
+Object {
+  "actor": Any<String>,
+  "character": "Don Vito Corleone",
+  "quote": "A man who doesn't spend time with his family can never be a real man.",
+  "title": "The Godfather",
+  "year": 1972,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a actor 6`] = `
+Object {
+  "actor": Any<String>,
+  "character": "Don Vito Corleone",
+  "quote": "A friend should always underestimate your virtues and an enemy overestimate your faults",
+  "title": "The Godfather",
+  "year": 1972,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a actor 7`] = `
+Object {
+  "actor": Any<String>,
+  "character": "Don Vito Corleone",
+  "quote": "I have learned more in the streets than in any classroom.",
+  "title": "The Godfather",
+  "year": 1972,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a actor 8`] = `
+Object {
+  "actor": Any<String>,
+  "character": "Don Vito Corleone",
+  "quote": "Friendship is everything. Friendsip is more than a talent. It is more than the government. It is almost the equal to family.",
+  "title": "The Godfather",
+  "year": 1972,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a actor 9`] = `
+Object {
+  "actor": Any<String>,
+  "character": "Michael Corleone",
+  "quote": "Never let anyone know what you are thinking.",
+  "title": "The Godfather II",
+  "year": 1974,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a actor 10`] = `
+Object {
+  "actor": Any<String>,
+  "character": "Sollozzo",
+  "quote": "I don't like violence, Tim. I'm a bussinessman. Blood is a big expense.",
+  "title": "The Godfather II",
+  "year": 1974,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a actor 11`] = `
+Object {
+  "actor": Any<String>,
+  "character": "Michael Corleone",
+  "quote": "I respect those that tell me the truth, no matter how hard it is.",
+  "title": "The Godfather II",
+  "year": 1974,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a actor 12`] = `
+Object {
+  "actor": Any<String>,
+  "character": "Michael Corleone",
+  "quote": "I asked God for a bike, but I know God doesn't work that way. So I stole a bike and asked him for forgiveness",
+  "title": "The Godfather II",
+  "year": 1974,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a actor 13`] = `
+Object {
+  "actor": Any<String>,
+  "character": "Don Vito Corleone",
+  "quote": "Revenge is a dish best served cold.",
+  "title": "The Godfather",
+  "year": 1972,
+}
+`;
+
 exports[`is the Movie quote valid All items need to have a character 1`] = `
 Object {
   "actor": "",
@@ -37,6 +147,116 @@ Object {
   "quote": "TE32312ST2",
   "title": "",
   "year": 2001,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a character 3`] = `
+Object {
+  "actor": "Marlon Brando",
+  "character": Any<String>,
+  "quote": "Great men are not born great, they grow great.",
+  "title": "The Godfather",
+  "year": 1972,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a character 4`] = `
+Object {
+  "actor": "Marlon Brando",
+  "character": Any<String>,
+  "quote": "It's nothing personal, it's just business.",
+  "title": "The Godfather",
+  "year": 1972,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a character 5`] = `
+Object {
+  "actor": "Marlon Brando",
+  "character": Any<String>,
+  "quote": "A man who doesn't spend time with his family can never be a real man.",
+  "title": "The Godfather",
+  "year": 1972,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a character 6`] = `
+Object {
+  "actor": "Marlon Brando",
+  "character": Any<String>,
+  "quote": "A friend should always underestimate your virtues and an enemy overestimate your faults",
+  "title": "The Godfather",
+  "year": 1972,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a character 7`] = `
+Object {
+  "actor": "Marlon Brando",
+  "character": Any<String>,
+  "quote": "I have learned more in the streets than in any classroom.",
+  "title": "The Godfather",
+  "year": 1972,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a character 8`] = `
+Object {
+  "actor": "Marlon Brando",
+  "character": Any<String>,
+  "quote": "Friendship is everything. Friendsip is more than a talent. It is more than the government. It is almost the equal to family.",
+  "title": "The Godfather",
+  "year": 1972,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a character 9`] = `
+Object {
+  "actor": "Al Pacino",
+  "character": Any<String>,
+  "quote": "Never let anyone know what you are thinking.",
+  "title": "The Godfather II",
+  "year": 1974,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a character 10`] = `
+Object {
+  "actor": "Sollozzo",
+  "character": Any<String>,
+  "quote": "I don't like violence, Tim. I'm a bussinessman. Blood is a big expense.",
+  "title": "The Godfather II",
+  "year": 1974,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a character 11`] = `
+Object {
+  "actor": "Al Pacino",
+  "character": Any<String>,
+  "quote": "I respect those that tell me the truth, no matter how hard it is.",
+  "title": "The Godfather II",
+  "year": 1974,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a character 12`] = `
+Object {
+  "actor": "Al Pacino",
+  "character": Any<String>,
+  "quote": "I asked God for a bike, but I know God doesn't work that way. So I stole a bike and asked him for forgiveness",
+  "title": "The Godfather II",
+  "year": 1974,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a character 13`] = `
+Object {
+  "actor": "Marlon Brando",
+  "character": Any<String>,
+  "quote": "Revenge is a dish best served cold.",
+  "title": "The Godfather",
+  "year": 1972,
 }
 `;
 
@@ -60,6 +280,116 @@ Object {
 }
 `;
 
+exports[`is the Movie quote valid All items need to have a quote 3`] = `
+Object {
+  "actor": "Marlon Brando",
+  "character": "Don Vito Corleone",
+  "quote": Any<String>,
+  "title": "The Godfather",
+  "year": 1972,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a quote 4`] = `
+Object {
+  "actor": "Marlon Brando",
+  "character": "Don Vito Corleone",
+  "quote": Any<String>,
+  "title": "The Godfather",
+  "year": 1972,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a quote 5`] = `
+Object {
+  "actor": "Marlon Brando",
+  "character": "Don Vito Corleone",
+  "quote": Any<String>,
+  "title": "The Godfather",
+  "year": 1972,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a quote 6`] = `
+Object {
+  "actor": "Marlon Brando",
+  "character": "Don Vito Corleone",
+  "quote": Any<String>,
+  "title": "The Godfather",
+  "year": 1972,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a quote 7`] = `
+Object {
+  "actor": "Marlon Brando",
+  "character": "Don Vito Corleone",
+  "quote": Any<String>,
+  "title": "The Godfather",
+  "year": 1972,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a quote 8`] = `
+Object {
+  "actor": "Marlon Brando",
+  "character": "Don Vito Corleone",
+  "quote": Any<String>,
+  "title": "The Godfather",
+  "year": 1972,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a quote 9`] = `
+Object {
+  "actor": "Al Pacino",
+  "character": "Michael Corleone",
+  "quote": Any<String>,
+  "title": "The Godfather II",
+  "year": 1974,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a quote 10`] = `
+Object {
+  "actor": "Sollozzo",
+  "character": "Sollozzo",
+  "quote": Any<String>,
+  "title": "The Godfather II",
+  "year": 1974,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a quote 11`] = `
+Object {
+  "actor": "Al Pacino",
+  "character": "Michael Corleone",
+  "quote": Any<String>,
+  "title": "The Godfather II",
+  "year": 1974,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a quote 12`] = `
+Object {
+  "actor": "Al Pacino",
+  "character": "Michael Corleone",
+  "quote": Any<String>,
+  "title": "The Godfather II",
+  "year": 1974,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a quote 13`] = `
+Object {
+  "actor": "Marlon Brando",
+  "character": "Don Vito Corleone",
+  "quote": Any<String>,
+  "title": "The Godfather",
+  "year": 1972,
+}
+`;
+
 exports[`is the Movie quote valid All items need to have a title 1`] = `
 Object {
   "actor": "",
@@ -80,6 +410,116 @@ Object {
 }
 `;
 
+exports[`is the Movie quote valid All items need to have a title 3`] = `
+Object {
+  "actor": "Marlon Brando",
+  "character": "Don Vito Corleone",
+  "quote": "Great men are not born great, they grow great.",
+  "title": Any<String>,
+  "year": 1972,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a title 4`] = `
+Object {
+  "actor": "Marlon Brando",
+  "character": "Don Vito Corleone",
+  "quote": "It's nothing personal, it's just business.",
+  "title": Any<String>,
+  "year": 1972,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a title 5`] = `
+Object {
+  "actor": "Marlon Brando",
+  "character": "Don Vito Corleone",
+  "quote": "A man who doesn't spend time with his family can never be a real man.",
+  "title": Any<String>,
+  "year": 1972,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a title 6`] = `
+Object {
+  "actor": "Marlon Brando",
+  "character": "Don Vito Corleone",
+  "quote": "A friend should always underestimate your virtues and an enemy overestimate your faults",
+  "title": Any<String>,
+  "year": 1972,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a title 7`] = `
+Object {
+  "actor": "Marlon Brando",
+  "character": "Don Vito Corleone",
+  "quote": "I have learned more in the streets than in any classroom.",
+  "title": Any<String>,
+  "year": 1972,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a title 8`] = `
+Object {
+  "actor": "Marlon Brando",
+  "character": "Don Vito Corleone",
+  "quote": "Friendship is everything. Friendsip is more than a talent. It is more than the government. It is almost the equal to family.",
+  "title": Any<String>,
+  "year": 1972,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a title 9`] = `
+Object {
+  "actor": "Al Pacino",
+  "character": "Michael Corleone",
+  "quote": "Never let anyone know what you are thinking.",
+  "title": Any<String>,
+  "year": 1974,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a title 10`] = `
+Object {
+  "actor": "Sollozzo",
+  "character": "Sollozzo",
+  "quote": "I don't like violence, Tim. I'm a bussinessman. Blood is a big expense.",
+  "title": Any<String>,
+  "year": 1974,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a title 11`] = `
+Object {
+  "actor": "Al Pacino",
+  "character": "Michael Corleone",
+  "quote": "I respect those that tell me the truth, no matter how hard it is.",
+  "title": Any<String>,
+  "year": 1974,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a title 12`] = `
+Object {
+  "actor": "Al Pacino",
+  "character": "Michael Corleone",
+  "quote": "I asked God for a bike, but I know God doesn't work that way. So I stole a bike and asked him for forgiveness",
+  "title": Any<String>,
+  "year": 1974,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a title 13`] = `
+Object {
+  "actor": "Marlon Brando",
+  "character": "Don Vito Corleone",
+  "quote": "Revenge is a dish best served cold.",
+  "title": Any<String>,
+  "year": 1972,
+}
+`;
+
 exports[`is the Movie quote valid All items need to have a year 1`] = `
 Object {
   "actor": "",
@@ -96,6 +536,116 @@ Object {
   "character": "",
   "quote": "TE32312ST2",
   "title": "",
+  "year": Any<Number>,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a year 3`] = `
+Object {
+  "actor": "Marlon Brando",
+  "character": "Don Vito Corleone",
+  "quote": "Great men are not born great, they grow great.",
+  "title": "The Godfather",
+  "year": Any<Number>,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a year 4`] = `
+Object {
+  "actor": "Marlon Brando",
+  "character": "Don Vito Corleone",
+  "quote": "It's nothing personal, it's just business.",
+  "title": "The Godfather",
+  "year": Any<Number>,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a year 5`] = `
+Object {
+  "actor": "Marlon Brando",
+  "character": "Don Vito Corleone",
+  "quote": "A man who doesn't spend time with his family can never be a real man.",
+  "title": "The Godfather",
+  "year": Any<Number>,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a year 6`] = `
+Object {
+  "actor": "Marlon Brando",
+  "character": "Don Vito Corleone",
+  "quote": "A friend should always underestimate your virtues and an enemy overestimate your faults",
+  "title": "The Godfather",
+  "year": Any<Number>,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a year 7`] = `
+Object {
+  "actor": "Marlon Brando",
+  "character": "Don Vito Corleone",
+  "quote": "I have learned more in the streets than in any classroom.",
+  "title": "The Godfather",
+  "year": Any<Number>,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a year 8`] = `
+Object {
+  "actor": "Marlon Brando",
+  "character": "Don Vito Corleone",
+  "quote": "Friendship is everything. Friendsip is more than a talent. It is more than the government. It is almost the equal to family.",
+  "title": "The Godfather",
+  "year": Any<Number>,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a year 9`] = `
+Object {
+  "actor": "Al Pacino",
+  "character": "Michael Corleone",
+  "quote": "Never let anyone know what you are thinking.",
+  "title": "The Godfather II",
+  "year": Any<Number>,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a year 10`] = `
+Object {
+  "actor": "Sollozzo",
+  "character": "Sollozzo",
+  "quote": "I don't like violence, Tim. I'm a bussinessman. Blood is a big expense.",
+  "title": "The Godfather II",
+  "year": Any<Number>,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a year 11`] = `
+Object {
+  "actor": "Al Pacino",
+  "character": "Michael Corleone",
+  "quote": "I respect those that tell me the truth, no matter how hard it is.",
+  "title": "The Godfather II",
+  "year": Any<Number>,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a year 12`] = `
+Object {
+  "actor": "Al Pacino",
+  "character": "Michael Corleone",
+  "quote": "I asked God for a bike, but I know God doesn't work that way. So I stole a bike and asked him for forgiveness",
+  "title": "The Godfather II",
+  "year": Any<Number>,
+}
+`;
+
+exports[`is the Movie quote valid All items need to have a year 13`] = `
+Object {
+  "actor": "Marlon Brando",
+  "character": "Don Vito Corleone",
+  "quote": "Revenge is a dish best served cold.",
+  "title": "The Godfather",
   "year": Any<Number>,
 }
 `;
