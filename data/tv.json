@@ -1,19 +1,28 @@
 [
 	{
-		"quote": "TEST",
-		"character": "",
-		"title": "",
+		"quote": "How you doin?",
+		"character": "Joey",
+		"title": "F.R.I.E.N.D.S",
 		"season": 1,
+		"episode": 1,
+		"year": 2000
+	},
+	{
+		"quote": "Joey doesn't share food",
+		"character": "joey",
+		"title": "F.R.I.E.N.D.S",
+		"season": 2,
 		"episode": 1,
 		"year": 2001
 	},
+
 	{
-		"quote": "76745645",
-		"character": "",
-		"title": "",
-		"season": 1,
-		"episode": 1,
-		"year": 2001
+		"quote": "I'm not great at advice, can i interest u in a sacrcastic comment",
+		"character": "Chandler",
+		"title": "F.R.I.E.N.D.S",
+		"season": 5,
+		"episode": 6,
+		"year": 2005
 	},
     {
         "quote": "You've been BAMBOOZLED!",
