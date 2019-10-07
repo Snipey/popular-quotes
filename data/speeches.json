@@ -1,17 +1,32 @@
 [
 	{
+		"person": "Gore Vidal",
 		"quote": "TEST",
-		"person": "",
 		"year": 2001
 	},
 	{
+		"person": "Shannon Alder",
 		"quote": "T32312",
-		"person": "",
 		"year": 2001
 	},
 	{
-		"quote": "T4260",
 		"person": "",
-		"year": 2008
+		"quote": "Today's public figures can no longer write their own speeches or books, and there is some evidence that they can't read them either.",
+		"year": 2001
+	},
+	{
+		"person": "",
+		"quote": "Carve your name on hearts, not tombstones. A legacy is etched into the minds of others and the stories they share about you.",
+		"year": 2001
+	},
+	{
+		"person": "",
+		"quote": "TEST",
+		"year": 1820
+	},
+	{
+		"person": "",
+		"quote": "T32312",
+		"year": 2002
 	}
 ]
