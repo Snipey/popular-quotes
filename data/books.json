@@ -126,6 +126,19 @@
 		"year": 1999
 	},
 	{
+		"quote": "I hope you're pleased with yourselves. We could all have been killed - or worse, expelled",
+		"character": "Hermione Granger",
+		"title": "Harry Potter and the Sorcerer's Stone",
+		"author": "J. K. Rowling",
+		"year": 1997
+	},
+	{
+		"quote": "The truth. It is a beautiful and terrible thing, and should therefore be treated with great caution.",
+		"character": "Albus Percival Wulfric Brian Dumbledore",
+		"title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J. K. Rowling",
+		"year": 1997
+	},
 		"quote": "It is not that we have a short time to live, but that we waste a lot of it.",
 		"character": "",
 		"title": "On the Shortness of Life",
@@ -273,6 +286,12 @@
 		"year": 1997
 	},
 	{
+		"quote": "It is our choices, Harry, that show what we truly are, far more than our abilities.",
+		"character": "Albus Percival Wulfric Brian Dumbledore",
+		"title": "Harry Potter and the Chamber of Secrets",
+		"author": "J. K. Rowling",
+		"year": 1997
+	},
 		"quote": "We’ve all got both light and dark inside us. What matters is the part we choose to act on. That’s who we really are.",
 		"character": "Sirius Black",
 		"title": " Harry Potter and the Order of the Phoenix",
