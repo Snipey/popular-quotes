@@ -15,12 +15,14 @@ A popular quotes package to get you quotes from various sources of media
 
 
 # Data Structure
+Use this to fill in the data for each file
+
 `tv.json`
 ```
 	{
-		"quote": "TEST",
-		"character": "",
-		"title": "",
+		"quote": "[Quote]",
+		"character": "[Character]",
+		"title": "[Title]",
 		"season": 1,
 		"episode": 1,
 		"year": 2001
@@ -30,10 +32,10 @@ A popular quotes package to get you quotes from various sources of media
 `movies.json`
 ```
 	{
-		"quote": "TE32312ST2",
-		"character": "",
-		"title": "",
-		"actor": "",
+		"quote": "[Quote]",
+		"character": "[Character]",
+		"title": "[Title]",
+		"actor": "[Actor]",
 		"year": 2001
 	}
 ```
@@ -41,9 +43,9 @@ A popular quotes package to get you quotes from various sources of media
 `anime.json`
 ```
 	{
-		"quote": "TEST4342342",
+		"quote": "[Quote]",
 		"episode": 123,
-		"title": "",
+		"title": "[Title]",
 		"year": 2001
 	}
 ```

@@ -1,12 +1,32 @@
 [
 	{
-		"quote": "TEST",
-		"person": "",
-		"year": 2001
+		"quote": "We speak not only to tell other people what we think, but to tell ourselves what we think. Speech is a part of thought.",
+		"person": "Oliver Sacks",
+		"year": "--"
 	},
 	{
-		"quote": "T32312",
-		"person": "",
-		"year": 2001
-	}
+		"quote": "Not in his speech, not in his thoughts, I see his greatness, only in his actions, in his life.",
+		"person": "Hermann Hesse",
+		"year": "--"
+	},
+	{
+		"quote": "To assess the quality of thoughts of people, don't listen to their words, but watch their actions.",
+		"person": "Amit Kalantri",
+		"year": "--"
+	},
+	{
+		"quote": "A good traveler leaves no tracks. Good speech lacks fault-finding.",
+		"person": "Lao Tzu",
+		"year": "--"
+	},
+	{
+		"quote": "To assess the quality of thoughts of people, don't listen to their words, but watch their actions.",
+		"person": "Amit Kalantri",
+		"year": "--"
+	},
+	{
+		"quote": "Freedom of the press is limited to those who own one.",
+		"person": "A.J. Liebling",
+		"year": "--"
+  }
 ]
