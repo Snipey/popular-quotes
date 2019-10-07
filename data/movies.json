@@ -68,7 +68,7 @@
     "title": "Terminator 2: Judgement Day",
     "actor": "Arnold Schwarzenegger",
     "year": 1991
-  }
+  },
   {
 		"quote": "Here's looking at you,kid!",
 		"character": "Rick",
@@ -194,5 +194,5 @@
 		"title": "Ferris Bueller's Day Off",
 		"actor": "Matthew Broderick",
 		"year": 1986
-	},
+	}
 ]
