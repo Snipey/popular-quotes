@@ -1,10 +1,5 @@
 [
 	{
-		"quote": "What cannot be said above all must not be silenced but written.",
-		"person": "Jacques Derrida",
-		"year": "--"
-	},
-	{
 		"quote": "We speak not only to tell other people what we think, but to tell ourselves what we think. Speech is a part of thought.",
 		"person": "Oliver Sacks",
 		"year": "--"
@@ -33,5 +28,5 @@
 		"quote": "Freedom of the press is limited to those who own one.",
 		"person": "A.J. Liebling",
 		"year": "--"
-	}
+  }
 ]
