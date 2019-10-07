@@ -1,0 +1,22 @@
+{
+  "name": "popular-quotes",
+  "version": "1.0.0",
+  "description": "A package for popular quotes from various media.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Snipey/popular-quotes.git"
+  },
+  "author": "Stephen Freerking",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Snipey/popular-quotes/issues"
+  },
+  "homepage": "https://github.com/Snipey/popular-quotes#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
