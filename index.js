@@ -9,5 +9,6 @@ module.exports = {
 	Tv: tv,
 	Speeches: speeches,
 	Books: books,
+	Books: books,
 	Anime: anime,
 }
