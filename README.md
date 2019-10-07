@@ -25,6 +25,16 @@ A popular quotes package to get you quotes from various sources of media
 		"episode": 1,
 		"year": 2001
 	}
+	{
+		"quote": “Most people are nothing but pawns on a chessboard led by an unknown hand”,
+		"character": "Noah",
+		"title": "Dark",
+		"season": 1,
+		"episode": 10,
+		"year": 2017
+	}
+	
+	
 ```
 
 `movies.json`
