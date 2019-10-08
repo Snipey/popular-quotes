@@ -19,7 +19,7 @@ const getByYear = (start, end, order) => {
 
 const getRandom = () => {
   const randNum = Math.floor(Math.random() * quotes.length);
-  return quotes[parseInt(randNum)].quote;
+  return quotes[parseInt(randNum, 10)].quote;
 };
 
 const listAll = () => {
