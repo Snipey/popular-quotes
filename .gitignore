@@ -61,3 +61,4 @@ typings/
 .next
 
 ___tests__/*/__snapshots__/*
+*.snap
