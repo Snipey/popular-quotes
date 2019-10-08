@@ -18,7 +18,7 @@ jobs:
     - stage: Run Tests
       node_js: '10'
       script:
-        - npm test -- -u
+        - npm test
     - stage: Produce Coverage
       node_js: node
       script: jest --coverage && cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js && rm -rf ./coverage
