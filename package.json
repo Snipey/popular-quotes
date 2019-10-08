@@ -1,6 +1,6 @@
 {
   "name": "popular-quotes",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A package for popular quotes from various media.",
   "main": "index.js",
   "scripts": {
