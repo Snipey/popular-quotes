@@ -17,11 +17,13 @@ cache:
 script:
   - npm test -- -u
 
-deploy:
-  provider: npm
-  email: "$EMAIL"
-  api_key:
-    secure: "$NPM_API_KEY"
-  on:
-    tags: true
-    repo: Snipey/popular-quotes
+jobs:
+  include:
+    - stage: npm release
+      node_js: '10'
+      script: echo "Deploying to npm ..."
+      deploy:
+        email: contact@snipey.dev
+        provider: npm
+        api_key: $NPM_API_KEY
+        on: deploy-npm-release
