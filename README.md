@@ -20,7 +20,7 @@
 	<img src="https://img.shields.io/travis/com/snipey/popular-quotes?style=for-the-badge"/>
 	<img src="https://img.shields.io/npm/dw/popular-quotes?style=for-the-badge"/>
 	<img src="https://img.shields.io/bundlephobia/min/popular-quotes?style=for-the-badge"/>
-	<img src="">
+	<!-- <img src=""> -->
   </p>
   <br/>
 	<p>
