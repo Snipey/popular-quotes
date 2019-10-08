@@ -17,7 +17,9 @@
   <p align="center">
 	<img src="https://img.shields.io/npm/v/popular-quotes?logo=npm&style=for-the-badge"/>  
 	<img src="https://img.shields.io/travis/com/snipey/popular-quotes?style=for-the-badge&logo=travis"/>
-	<img src="https://img.shields.io/coveralls/github/snipey/popular-quotes?style=for-the-badge"/>
+	<a href="https://codecov.io/gh/Snipey/popular-quotes">
+		<img src="https://codecov.io/gh/Snipey/popular-quotes/branch/master/graph/badge.svg" />
+	</a>
 	<img src="https://img.shields.io/npm/dw/popular-quotes?style=for-the-badge&logo=npm"/>
 	<img src="https://img.shields.io/bundlephobia/min/popular-quotes?style=for-the-badge&logo=npm"/>
 	<img alt="node" src="https://img.shields.io/node/v/popular-quotes?style=for-the-badge">
