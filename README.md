@@ -1,4 +1,3 @@
-# Hacktoberfest!
 <div align="center">
   <br />
   <p align="center">
