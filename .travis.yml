@@ -3,7 +3,7 @@ language: node_js
 node_js:
   - '10'
 
-branches:
+branch:
   only:
     - master
 
@@ -15,4 +15,15 @@ cache:
     - 'node_modules'
 
 script:
-  - npm run test
+  - npm test -- -u
+
+jobs:
+  include:
+    - stage: npm release
+      node_js: '10'
+      script: echo "Deploying to npm ..."
+      deploy:
+        email: contact@snipey.dev
+        provider: npm
+        api_key: $NPM_API_KEY
+        on: deploy-npm-release

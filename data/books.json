@@ -5,8 +5,8 @@
 		"title": "Harry Potter and the Sorcerer’s Stone",
 		"author": "J.K Rowling",
 		"year": 2002
-  },
-  {
+  	},
+  	{
 		"quote": "It matters not what someone is born, but what they grow to be.",
 		"character": "Professor Albus Dumbledore",
 		"title": "Harry Potter and the Goblet of Fire",
@@ -53,7 +53,7 @@
 		"character": "[Narrator]",
 		"title": "The art of story selling",
 		"author":"keshav lal",
-		"year":"2015"
+		"year": 2015
 	},
 	{
 		"quote":"You will need to be mature and pragmatic. You must use your heart to decide the destination, but use your head to plot the journey.",
@@ -110,8 +110,8 @@
 		"title": "The Godfather",
 		"author": "Mario Puzo",
 		"year": 1969
-  },
-  {
+  	},
+  	{
 		"quote": "It's the possibility of having a dream come true that makes life interesting.",
 		"character": "",
 		"title": "The Alchemist",
@@ -126,13 +126,27 @@
 		"year": 1999
 	},
 	{
+		"quote": "I hope you're pleased with yourselves. We could all have been killed - or worse, expelled",
+		"character": "Hermione Granger",
+		"title": "Harry Potter and the Sorcerer's Stone",
+		"author": "J. K. Rowling",
+		"year": 1997
+	},
+	{
+		"quote": "The truth. It is a beautiful and terrible thing, and should therefore be treated with great caution.",
+		"character": "Albus Percival Wulfric Brian Dumbledore",
+		"title": "Harry Potter and the Sorcerer's Stone",
+    	"author": "J. K. Rowling",
+		"year": 1997
+	},
+	{
 		"quote": "It is not that we have a short time to live, but that we waste a lot of it.",
 		"character": "",
 		"title": "On the Shortness of Life",
 		"author": "Seneca 49AD",
-		"year": 0000
-  },
-  {
+		"year": 0
+	},
+	{
 		"quote": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest I go to than I have ever known.",
 		"character": "Sydney Carton",
 		"title": "A Tale of Two Cities",
@@ -273,11 +287,52 @@
 		"year": 1997
 	},
 	{
+		"quote": "It is our choices, Harry, that show what we truly are, far more than our abilities.",
+		"character": "Albus Percival Wulfric Brian Dumbledore",
+		"title": "Harry Potter and the Chamber of Secrets",
+		"author": "J. K. Rowling",
+		"year": 1997
+	},
+	{
 		"quote": "We’ve all got both light and dark inside us. What matters is the part we choose to act on. That’s who we really are.",
 		"character": "Sirius Black",
 		"title": " Harry Potter and the Order of the Phoenix",
 		"author": "J. K. Rowling",
 		"year": 2003
-	}
-	
+	},
+  	{
+		"quote": "All we have to decide is what to do with the time that is given us.",
+		"character": "",
+		"title": "A Tale of Two Cities",
+		"author": "Charles Dickens",
+		"year": 1859
+	},
+	{
+		"quote": "All we have to decide is what to do with the time that is given us.",
+		"character": "",
+		"title": "The Fellowship of the Ring",
+		"author": "J.R.R. Tolkein",
+		"year": 2002
+	},
+	{
+		"quote": "Certainty of death. Small chance of success. What are we waiting for?",
+		"character": "Gimli",
+		"title": "The Lord of the Rings: The Return of the King",
+		"author": "J.R.R. Tolkein",
+		"year": 1955
+  },
+	{
+		"quote": "It’s the possibility of having a dream come true that makes life interesting.",
+		"character": "",
+		"title": "The Alchemist",
+		"author": "Paulo Coelho",
+		"year": 1988
+  },
+    {
+		"quote": "All shall be done. But it may be harder than you think.",
+		"character": "Aslam",
+		"title": "The Lion, the Witch and the Wardrobe",
+		"author": "C.S. Lewis",
+		"year": 1984
+  }
 ]
