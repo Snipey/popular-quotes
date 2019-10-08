@@ -1,73 +1,94 @@
 # Hacktoberfest!
-![GitHub Hacktoberfest combined status (suggestion label override)](https://img.shields.io/github/hacktoberfest/2019/snipey/popular-quotes?style=for-the-badge&suggestion_label=help%20wanted)
+<div align="center">
+  <br />
+  <p align="center">
+    <a href="https://hacktoberfest.digitalocean.com/"><img src="https://hacktoberfest.digitalocean.com/assets/logo-hf19-header-8245176fe235ab5d942c7580778a914110fa06a23c3d55bf40e2d061809d8785.svg" width="768" alt="hacktober-banner" /></a>
+	<img src="https://img.shields.io/github/hacktoberfest/2019/snipey/popular-quotes?style=for-the-badge&suggestion_label=help%20wanted"></img>
+  </p>
+  <br />
+  <p align="center">
+	<h1>Popular Quotes</h1>
+	A popular quotes package to get you quotes from various sources of media
+	<hr/>
+  </p>
+<p align="center">
+	<img src="https://img.shields.io/github/issues/snipey/popular-quotes?style=for-the-badge"></img>
+	<img src="https://img.shields.io/github/issues-pr-raw/snipey/popular-quotes?label=pull%20requests&style=for-the-badge"></img>
+  </p>
+  <br/>
+  <p>
+	<img src="https://img.shields.io/travis/com/snipey/popular-quotes?style=for-the-badge"/>
+	<img src="https://img.shields.io/npm/dw/popular-quotes?style=for-the-badge"/>
+	<img src="https://img.shields.io/bundlephobia/min/popular-quotes?style=for-the-badge"/>
+	<img src="">
+  </p>
+  <br/>
+	<p>
+	<h3>Come join us in discord to chat about the package</h3>
+  	<img src="https://img.shields.io/discord/535881918483398676?style=for-the-badge"/>
+  </p>
+</div>
 
-![GitHub issues](https://img.shields.io/github/issues/snipey/popular-quotes?style=for-the-badge)
-![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/snipey/popular-quotes?label=pull%20requests&style=for-the-badge)
 
 
-![Travis (.com)](https://img.shields.io/travis/com/snipey/popular-quotes?style=for-the-badge)
-![Code Climate maintainability](https://img.shields.io/codeclimate/maintainability/snipey/popular-quotes?style=for-the-badge)
-![Discord](https://img.shields.io/discord/535881918483398676?style=for-the-badge)
-![npm](https://img.shields.io/npm/dw/popular-quotes?style=for-the-badge)
-![npm bundle size](https://img.shields.io/bundlephobia/min/popular-quotes?style=for-the-badge)
-# popular-quotes
-A popular quotes package to get you quotes from various sources of media
+
+
 
 
 # Data Structure
 Use this to fill in the data for each file
 
 `tv.json`
-```
+```json
 	{
-		"quote": "[Quote]",
-		"character": "[Character]",
-		"title": "[Title]",
+		"quote": "How you doin?",
+		"character": "Joey",
+		"title": "F.R.I.E.N.D.S",
 		"season": 1,
 		"episode": 1,
-		"year": 2001
-	}
+		"year": 2000
+	},
 ```
 
 `movies.json`
-```
-	{
-		"quote": "[Quote]",
-		"character": "[Character]",
-		"title": "[Title]",
-		"actor": "[Actor]",
-		"year": 2001
-	}
+```json
+  {
+		"quote": "Here's looking at you,kid!",
+		"character": "Rick",
+		"title": "Casablanca",
+		"actor": "Humphrey Bogart",
+		"year": 1942
+	},
 ```
 
 `anime.json`
-```
+```json
 	{
-		"quote": "[Quote]",
-		"episode": 123,
-		"title": "[Title]",
-		"year": 2001
-	}
+		"quote": "We would never betray her like that! You’d have to kill us first!",
+		"episode": 23,
+		"title": "Erza Scarlet",
+		"year": 2010
+	},
 ```
 
 `books.json`
-```
+```json
 	{
-		"quote": "TES312312T2",
-		"character": "",
-		"title": "",
-		"author": "",
-		"year": 2001
-	}
+		"quote": "I hope you're pleased with yourselves. We could all have been killed - or worse, expelled",
+		"character": "Hermione Granger",
+		"title": "Harry Potter and the Sorcerer's Stone",
+		"author": "J. K. Rowling",
+		"year": 1997
+	},
 ```
 
 `speeches.json`
-```
+```json
 	{
-		"quote": "T32312",
-		"person": "",
-		"year": 2001
-	}
+		"quote": "That's one small step for man, one giant leap for mankind.",
+		"person": "Neil Armstrong",
+		"year": 1969
+	},
 ```
 # Social
 
