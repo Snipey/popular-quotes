@@ -320,5 +320,12 @@
 		"title": "The Alchemist",
 		"author": "Paulo Coelho",
 		"year": 1988
+  },
+    {
+		"quote": "All shall be done. But it may be harder than you think.",
+		"character": "Aslam",
+		"title": "The Lion, the Witch and the Wardrobe",
+		"author": "C.S. Lewis",
+		"year": 1984
   }
 ]
