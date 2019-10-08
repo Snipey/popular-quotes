@@ -5,8 +5,8 @@
 		"title": "Harry Potter and the Sorcerer’s Stone",
 		"author": "J.K Rowling",
 		"year": 2002
-  },
-  {
+  	},
+  	{
 		"quote": "It matters not what someone is born, but what they grow to be.",
 		"character": "Professor Albus Dumbledore",
 		"title": "Harry Potter and the Goblet of Fire",
@@ -110,8 +110,8 @@
 		"title": "The Godfather",
 		"author": "Mario Puzo",
 		"year": 1969
-  },
-  {
+  	},
+  	{
 		"quote": "It's the possibility of having a dream come true that makes life interesting.",
 		"character": "",
 		"title": "The Alchemist",
@@ -313,6 +313,13 @@
 		"title": "The Fellowship of the Ring",
 		"author": "J.R.R. Tolkein",
 		"year": 2002
+	},
+	{
+		"quote": "Certainty of death. Small chance of success. What are we waiting for?",
+		"character": "Gimli",
+		"title": "The Lord of the Rings: The Return of the King",
+		"author": "J.R.R. Tolkein",
+		"year": 1955
   },
 	{
 		"quote": "It’s the possibility of having a dream come true that makes life interesting.",
