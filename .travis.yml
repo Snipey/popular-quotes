@@ -7,23 +7,18 @@ branch:
   only:
     - master
 
-
 install: npm install
 
 cache:
   directories:
     - 'node_modules'
 
-script:
-  - npm test -- -u
-
 jobs:
   include:
-    - stage: npm release
+    - stage: Run Tests
       node_js: '10'
-      script: echo "Deploying to npm ..."
-      deploy:
-        email: contact@snipey.dev
-        provider: npm
-        api_key: $NPM_API_KEY
-        on: deploy-npm-release
+      script:
+        - npm test -- -u
+    - stage: Produce Coverage
+      node_js: node
+      script: jest --coverage && cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js && rm -rf ./coverage

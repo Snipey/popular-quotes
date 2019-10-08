@@ -4,7 +4,7 @@
   "description": "A package for popular quotes from various media.",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest -- -u"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Snipey/popular-quotes#readme",
   "devDependencies": {
+    "coveralls": "^3.0.6",
     "jest": "^24.9.0"
   }
 }
