@@ -20,6 +20,7 @@
 	<img src="https://img.shields.io/coveralls/github/snipey/popular-quotes?style=for-the-badge"/>
 	<img src="https://img.shields.io/npm/dw/popular-quotes?style=for-the-badge&logo=npm"/>
 	<img src="https://img.shields.io/bundlephobia/min/popular-quotes?style=for-the-badge&logo=npm"/>
+	<img alt="node" src="https://img.shields.io/node/v/popular-quotes?style=for-the-badge">
   </p>
 	<p align="center">
 	<h3>Come join us in discord to chat about the package</h3>
