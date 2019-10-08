@@ -1,10 +1,10 @@
 {
   "name": "popular-quotes",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "A package for popular quotes from various media.",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest -- -u"
   },
   "repository": {
     "type": "git",

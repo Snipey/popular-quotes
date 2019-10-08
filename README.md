@@ -14,26 +14,25 @@
 	<img src="https://img.shields.io/github/issues/snipey/popular-quotes?style=for-the-badge"></img>
 	<img src="https://img.shields.io/github/issues-pr-raw/snipey/popular-quotes?label=pull%20requests&style=for-the-badge"></img>
   </p>
-  <br/>
-  <p>
+  <p align="center">
 	<img src="https://img.shields.io/npm/v/popular-quotes?logo=npm&style=for-the-badge"/>  
 	<img src="https://img.shields.io/travis/com/snipey/popular-quotes?style=for-the-badge&logo=travis"/>
 	<img src="https://img.shields.io/npm/dw/popular-quotes?style=for-the-badge&logo=npm"/>
 	<img src="https://img.shields.io/bundlephobia/min/popular-quotes?style=for-the-badge&logo=npm"/>
-	<!-- <img src=""> -->
   </p>
-  <br/>
-	<p>
+	<p align="center">
 	<h3>Come join us in discord to chat about the package</h3>
-  	<img src="https://img.shields.io/discord/535881918483398676?style=for-the-badge"/>
+  	<a href="https://discord.gg/g2qU2e6"><img src="https://img.shields.io/discord/535881918483398676?style=for-the-badge"/></a>
   </p>
 </div>
 
 
 
+# Functions
+### (Coming Soon)
 
-
-
+# Examples
+### (Coming Soon)
 
 # Data Structure
 Use this to fill in the data for each file
