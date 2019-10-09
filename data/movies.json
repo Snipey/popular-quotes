@@ -859,5 +859,12 @@
       "title": "Titanic", 
       "actor": "", 
       "year": 1986
+   },
+   {
+	   "quote": "Every person can be a force for good, free to forgehin own destiny.",
+	   "character": "",
+	   "title": "Man of Steel",
+	   "actor": "",
+	   "year": 2013
    }
 ]
