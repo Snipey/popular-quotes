@@ -12,11 +12,9 @@ const getByYear = (start, end, order) => {
             list.push(item);
         }
 	});
-	if(order === 'ascend'){
-		return list.sort((a, b) => 
-			a.year > b.year ? 1 : b.year > a.year ? -1 : 0	
-		);
-	}
+    return list.sort((a, b) => 
+        a.year > b.year ? 1 : b.year > a.year ? -1 : 0	
+    );
 };
 
 const getRandom = () => {

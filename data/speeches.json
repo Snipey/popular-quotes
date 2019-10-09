@@ -1,12 +1,57 @@
 [
 	{
-		"quote": "TEST",
-		"person": "",
-		"year": 2001
+		"quote": "That's one small step for man, one giant leap for mankind.",
+		"person": "Neil Armstrong",
+		"year": 1969
 	},
 	{
-		"quote": "T32312",
-		"person": "",
-		"year": 2001
+		"quote": "Those who make peaceful revolution impossible will make violent revolution inevitable.",
+		"person": "John F. Kennedy",
+		"year": 1962
+	},
+	{
+		"quote": "The true value of a human being is determined primarily by how he has attained liberation from the self.",
+		"person": "Einstein",
+		"year": 1932
+	},
+  {
+		"quote": "We speak not only to tell other people what we think, but to tell ourselves what we think. Speech is a part of thought.",
+		"person": "Oliver Sacks",
+		"year": 0
+	},
+	{
+		"quote": "Not in his speech, not in his thoughts, I see his greatness, only in his actions, in his life.",
+		"person": "Hermann Hesse",
+		"year": 0
+	},
+	{
+		"quote": "To assess the quality of thoughts of people, don't listen to their words, but watch their actions.",
+		"person": "Amit Kalantri",
+		"year": 0
+	},
+	{
+		"quote": "A good traveler leaves no tracks. Good speech lacks fault-finding.",
+		"person": "Lao Tzu",
+		"year": 0
+	},
+	{
+		"quote": "To assess the quality of thoughts of people, don't listen to their words, but watch their actions.",
+		"person": "Amit Kalantri",
+		"year": 0
+	},
+	{
+		"quote": "Freedom of the press is limited to those who own one.",
+		"person": "A.J. Liebling",
+		"year": 0
+  },
+	{
+		"quote": "Although I Would love to live with darkness and black, but I don't appreciate wickedness that impels human mind to become black.",
+		"person": "Lady Blackdress",
+		"year": 2014
+	},
+	{
+		"quote": "Let freedom reign. The sun never set on so glorious a human achievement. ",
+		"person": "Nelson Mandela",
+		"year": 0
 	}
 ]

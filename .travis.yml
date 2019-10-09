@@ -3,10 +3,9 @@ language: node_js
 node_js:
   - '10'
 
-branches:
+branch:
   only:
     - master
-
 
 install: npm install
 
@@ -14,5 +13,9 @@ cache:
   directories:
     - 'node_modules'
 
-script:
-  - npm run test
+jobs:
+  include:
+    - stage: Run Tests
+      node_js: '10'
+      script:
+        - npm run test
