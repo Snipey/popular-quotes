@@ -60,7 +60,6 @@ typings/
 # next.js build output
 .next
 
-___tests__/*/__snapshots__/*
-__tests__/anime/__snapshots__/
+__tests__
 
 *.snap
