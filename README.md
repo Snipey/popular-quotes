@@ -10,7 +10,7 @@
 	A popular quotes package to get you quotes from various sources of media
 	<hr/>
   </p>
-<p align="center">
+  <p align="center">
 	<img src="https://img.shields.io/github/issues/snipey/popular-quotes?style=for-the-badge"></img>
 	<img src="https://img.shields.io/github/issues-pr-raw/snipey/popular-quotes?label=pull%20requests&style=for-the-badge"></img>
   </p>
@@ -18,8 +18,9 @@
 	<img src="https://img.shields.io/npm/v/popular-quotes?logo=npm&style=for-the-badge"/>  
 	<img src="https://img.shields.io/travis/com/snipey/popular-quotes?style=for-the-badge&logo=travis"/>
 	<a href="https://codecov.io/gh/Snipey/popular-quotes">
-		<img src="https://codecov.io/gh/Snipey/popular-quotes/branch/master/graph/badge.svg" />
+		<img alt="Codacy coverage" src="https://img.shields.io/codacy/coverage/f5dcda441d974b849d5ed031aef80091?style=for-the-badge">
 	</a>
+	<img alt="Code Climate maintainability" src="https://img.shields.io/codeclimate/maintainability/Snipey/popular-quotes?style=for-the-badge">
 	<img src="https://img.shields.io/npm/dw/popular-quotes?style=for-the-badge&logo=npm"/>
 	<img src="https://img.shields.io/bundlephobia/min/popular-quotes?style=for-the-badge&logo=npm"/>
 	<img alt="node" src="https://img.shields.io/node/v/popular-quotes?style=for-the-badge">
