@@ -1,4 +1,4 @@
-const quotes = require("../data/lyrics.json");
+const quotes = require('../data/lyrics.json');
 
 const getByYear = (start, end, order) => {
   const list = quotes.filter((q) => q.year && q.year > start && q.year < end);

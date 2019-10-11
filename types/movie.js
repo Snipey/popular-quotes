@@ -1,5 +1,5 @@
 
-let quotes = require("../data/movies.json");
+let quotes = require('../data/movies.json');
 
 const numGen = () => {
     return Math.floor(Math.random() * quotes.length);
