@@ -54,11 +54,15 @@
 		"person": "Nelson Mandela",
 		"year": 0
 	},
+  {
+  "quote": "I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character.",
+  "person": "Martin Luther King, Jr.",
+  "year": 1963
+  },
 	{
-
 		"quote": "What cannot be said above all must not be silenced but written",
 		"person": "Jacques Derrida",
-		"year": "--"
+		"year": 0
   },
   {
 		"quote": "Your silence will not protect you",
