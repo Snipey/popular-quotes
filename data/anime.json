@@ -1,32 +1,38 @@
 [
-	{
-		"quote": "It wasn't me who was wrong, it was the world.",
-		"episode": 1,
-		"title": "Lelouch Vi Britannia",
-		"year": 2008
-	},
-	{
-		"quote": "We would never betray her like that! You’d have to kill us first!",
-		"episode": 23,
-		"title": "Erza Scarlet",
-		"year": 2010
-	},
-	{
-		"quote": "I'll become the pirate king.",
-		"episode": 1,
-		"title": "Monkey D. Luffy",
-		"year": 1998
-	},
-	{
-		"quote": "LIVE LIKE A LEGEND",
-		"episode": 12,
-		"title": "BAKI THE GRAPPLER",
-		"year": 2001
-	},
-	{
-		"quote": "Guided by the spirit demon within him, orphaned Naruto learn to harness his powers as a ninja in thi anime adventure series.",
-		"episode": 1,
-		"title": "Enter: Naruto Uzumaki!",
-		"year": 2002
-	}
+  {
+    "quote": "It wasn't me who was wrong, it was the world.",
+    "episode": 1,
+    "title": "Lelouch Vi Britannia",
+    "year": 2008
+  },
+  {
+    "quote": "We would never betray her like that! You’d have to kill us first!",
+    "episode": 23,
+    "title": "Erza Scarlet",
+    "year": 2010
+  },
+  {
+    "quote": "I'll become the pirate king.",
+    "episode": 1,
+    "title": "Monkey D. Luffy",
+    "year": 1998
+  },
+  {
+    "quote": "LIVE LIKE A LEGEND",
+    "episode": 12,
+    "title": "BAKI THE GRAPPLER",
+    "year": 2001
+  },
+  {
+    "quote": "Guided by the spirit demon within him, orphaned Naruto learn to harness his powers as a ninja in thi anime adventure series.",
+    "episode": 1,
+    "title": "Enter: Naruto Uzumaki!",
+    "year": 2002
+  },
+  {
+    "quote": "Empty words, prove it with action.",
+    "episode": 3,
+    "title": "Diamond no Ace",
+    "year": 2013
+  }
 ]

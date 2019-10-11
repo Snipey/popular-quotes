@@ -54,9 +54,29 @@
 		"person": "Nelson Mandela",
 		"year": 0
 	},
-		{
-		"quote": "I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character.",
-		"person": "Martin Luther King, Jr.",
-		"year": 1963
+  {
+  "quote": "I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character.",
+  "person": "Martin Luther King, Jr.",
+  "year": 1963
+  },
+	{
+		"quote": "What cannot be said above all must not be silenced but written",
+		"person": "Jacques Derrida",
+		"year": 0
+  },
+  {
+		"quote": "Your silence will not protect you",
+		"person": "Audre Lorde",
+		"year": 0
+  },
+  {
+		"quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.",
+		"person": "Steve Jobs",
+		"year": 0
+	},
+	{
+		"quote": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
+		"person": "Eleanor Roosevelt",
+		"year": 0
 	}
 ]
