@@ -1,29 +1,28 @@
 [
-	{
-		"quote": "How you doin?",
-		"character": "Joey",
-		"title": "F.R.I.E.N.D.S",
-		"season": 1,
-		"episode": 1,
-		"year": 2000
-	},
-	{
-		"quote": "Joey doesn't share food",
-		"character": "joey",
-		"title": "F.R.I.E.N.D.S",
-		"season": 2,
-		"episode": 1,
-		"year": 2001
-	},
-
-	{
-		"quote": "I'm not great at advice, can i interest u in a sacrcastic comment",
-		"character": "Chandler",
-		"title": "F.R.I.E.N.D.S",
-		"season": 5,
-		"episode": 6,
-		"year": 2005
-	},
+    {
+	"quote": "How you doin?",
+	"character": "Joey",
+	"title": "F.R.I.E.N.D.S",
+	"season": 1,
+	"episode": 1,
+	"year": 2000
+    },
+    {
+	"quote": "Joey doesn't share food",
+	"character": "joey",
+	"title": "F.R.I.E.N.D.S",
+	"season": 2,
+	"episode": 1,
+	"year": 2001
+    },
+    {
+	"quote": "I'm not great at advice, can i interest u in a sacrcastic comment",
+	"character": "Chandler",
+	"title": "F.R.I.E.N.D.S",
+	"season": 5,
+	"episode": 6,
+	"year": 2005
+    },
     {
         "quote": "You've been BAMBOOZLED!",
         "character": "Joey Tribbiani",
@@ -240,5 +239,53 @@
         "season": 1,
         "episode": 17,
         "year": 2014
+    },
+    {
+        "quote": "Bears, Beets, Battlestar Galactica.",
+        "character": "Jim Halpert",
+        "title": "The Office US",
+        "season": 3,
+        "episode": 21,
+        "year": 2007
+    },
+    {
+        "quote": "I. Declare. Bankruptcy!",
+        "character": "Michael Scott",
+        "title": "The Office US",
+        "season": 4,
+        "episode": 7-8,
+        "year": 2007
+    },
+    {
+        "quote": "I'm not superstitious, but I am a little-stitious.",
+        "character": "Michael Scott",
+        "title": "The Office US",
+        "season": 4,
+        "episode": 1-2,
+        "year": 2007
+    },
+    {
+        "quote": "The worst thing about prison was the... was the Dementors.",
+        "character": "Michael Scott",
+        "title": "The Office US",
+        "season": 3,
+        "episode": 9,
+        "year": 2007
+    },
+    {
+        "quote": "Saw Inception. Or at least I dreamt I did.",
+        "character": "Michael Scott",
+        "title": "The Office US",
+        "season": 7,
+        "episode": 1,
+        "year": 2007
+    },
+    {
+        "quote": "Well, well, well, how the turntables.",
+        "character": "Michael Scott",
+        "title": "The Office US",
+        "season": 5,
+        "episode": 25,
+        "year": 2007
     }
 ]
