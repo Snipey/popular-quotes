@@ -3,7 +3,7 @@ const tv = require('./types/tv');
 const speeches = require('./types/speeches');
 const books = require('./types/books');
 const anime = require('./types/anime');
-const lyrics = require("./types/lyrics");
+const lyrics = require('./types/lyrics');
 
 module.exports = {
   Movies: movie,
