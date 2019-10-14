@@ -233,7 +233,15 @@
         "year": 2016
     },
     {
-        "quote": “Bears, Beets, Battlestar Galactica.",
+        "quote": "A day without casualties was like - well, like the Cubs winning the pennant - it just never happened",
+        "character": "James",
+        "title": "Flash",
+        "season": 1,
+        "episode": 17,
+        "year": 2014
+    },
+    {
+        "quote": "Bears, Beets, Battlestar Galactica.",
         "character": "Jim Halpert",
         "title": "The Office US",
         "season": 3,
@@ -241,7 +249,7 @@
         "year": 2007
     },
     {
-        "quote": “I. Declare. Bankruptcy!”,
+        "quote": "I. Declare. Bankruptcy!",
         "character": "Michael Scott",
         "title": "The Office US",
         "season": 4,
