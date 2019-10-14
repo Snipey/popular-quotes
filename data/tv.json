@@ -232,5 +232,13 @@
         "season": 1,
         "episode": 3,
         "year": 2016
+    },
+    {
+        "quote": "A day without casualties was like - well, like the Cubs winning the pennant - it just never happened",
+        "character": "James",
+        "title": "Flash",
+        "season": 1,
+        "episode": 17,
+        "year": 2014
     }
 ]
