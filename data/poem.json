@@ -1,0 +1,20 @@
+[
+  {
+    "quote": "Two roads diverged in a wood, and I- I took the road less travelled by",
+    "poet": "Robert Frost",
+    "poem": "The Road Not Taken",
+    "year": 1916
+  },
+  {
+    "quote": "Water,water,everywhere,nor any drop to drink",
+    "poet": "Samuel Taylor Coleridge",
+    "poem": "The Rime Of The Ancient Mariner",
+    "year": 1798
+  },
+  {
+    "quote": "To be or not to be: that is the question",
+    "poet": "William Shakespeare",
+    "poem": "Hamlet",
+    "year": 1603
+  }
+]
