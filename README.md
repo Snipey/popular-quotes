@@ -94,6 +94,18 @@ Use this to fill in the data for each file
 		"year": 1969
 	},
 ```
+
+`lyrics.json`
+```json
+	{
+		"quote": "Nothing really matters to me!",
+		"singer": "Freddie Mercury",
+		"song": "Bohemian Rhapsody",
+		"artist": "Queen",
+		"year": 1975
+	}
+```	
+
 # Social
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/snipeydev?color=blue&style=for-the-badge&logo=twitter)
