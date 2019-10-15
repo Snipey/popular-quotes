@@ -1,27 +1,27 @@
 [
     {
-	"quote": "How you doin?",
-	"character": "Joey",
-	"title": "F.R.I.E.N.D.S",
-	"season": 1,
-	"episode": 1,
-	"year": 2000
+        "quote": "How you doin?",
+        "character": "Joey",
+        "title": "F.R.I.E.N.D.S",
+        "season": 1,
+        "episode": 1,
+        "year": 2000
     },
     {
-	"quote": "Joey doesn't share food",
-	"character": "joey",
-	"title": "F.R.I.E.N.D.S",
-	"season": 2,
-	"episode": 1,
-	"year": 2001
+        "quote": "Joey doesn't share food",
+        "character": "joey",
+        "title": "F.R.I.E.N.D.S",
+        "season": 2,
+        "episode": 1,
+        "year": 2001
     },
     {
-	"quote": "I'm not great at advice, can i interest u in a sacrcastic comment",
-	"character": "Chandler",
-	"title": "F.R.I.E.N.D.S",
-	"season": 5,
-	"episode": 6,
-	"year": 2005
+        "quote": "I'm not great at advice, can i interest u in a sacrcastic comment",
+        "character": "Chandler",
+        "title": "F.R.I.E.N.D.S",
+        "season": 5,
+        "episode": 6,
+        "year": 2005
     },
     {
         "quote": "You've been BAMBOOZLED!",
@@ -87,7 +87,6 @@
         "episode": 14,
         "year": 1999
     },
-
     {
         "quote": "Fine! Judge all you want, but: married a lesbian, left a man at the altar, fell in love with a gay ice dancer, threw a girl’s wooden leg in a fire, LIVE IN A BOX!",
         "character": "Monica",
@@ -253,7 +252,7 @@
         "character": "Michael Scott",
         "title": "The Office US",
         "season": 4,
-        "episode": 7-8,
+        "episode": 7,
         "year": 2007
     },
     {
@@ -261,7 +260,7 @@
         "character": "Michael Scott",
         "title": "The Office US",
         "season": 4,
-        "episode": 1-2,
+        "episode": 1,
         "year": 2007
     },
     {
