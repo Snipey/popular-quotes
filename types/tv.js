@@ -5,7 +5,7 @@ const numGen = () => {
     return Math.floor(Math.random() * quotes.length);
 };
 
-const getByYear = (start, end, order) => {
+const getByYear = (start, end) => {
     let list = [];
     quotes.forEach(item => {
         if (item.year && item.year > start && item.year < end) {
@@ -30,6 +30,5 @@ const listAll = () => {
 module.exports = {
     listAll,
     getRandom,
-    //getRandomRange,
     getByYear
 };
