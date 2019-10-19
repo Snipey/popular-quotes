@@ -341,5 +341,12 @@
 		"title": " The Thirteenth Tale",
 		"author": "Diane Setterfield",
 		"year": 2006
-}
+  },
+  {
+	"quote": "'I could tell you my adventures—beginning from this morning,' said Alice a little timidly; 'but it’s no use going back to yesterday, because I was a different person then.'",
+		"character": "Alice",
+		"title": "Alice's Adventures in Wonderland",
+		"author": "Lewis Carroll",
+		"year": 1865
+  }
 ]
