@@ -32,68 +32,9 @@
 </div>
 
 
+# Made Possible By You!
 
-# Functions
-### (Coming Soon)
-
-# Examples
-### (Coming Soon)
-
-# Data Structure
-Use this to fill in the data for each file
-
-`tv.json`
-```json
-	{
-		"quote": "How you doin?",
-		"character": "Joey",
-		"title": "F.R.I.E.N.D.S",
-		"season": 1,
-		"episode": 1,
-		"year": 2000
-	},
-```
-
-`movies.json`
-```json
-  {
-		"quote": "Here's looking at you,kid!",
-		"character": "Rick",
-		"title": "Casablanca",
-		"actor": "Humphrey Bogart",
-		"year": 1942
-	},
-```
-
-`anime.json`
-```json
-	{
-		"quote": "We would never betray her like that! You’d have to kill us first!",
-		"episode": 23,
-		"title": "Erza Scarlet",
-		"year": 2010
-	},
-```
-
-`books.json`
-```json
-	{
-		"quote": "I hope you're pleased with yourselves. We could all have been killed - or worse, expelled",
-		"character": "Hermione Granger",
-		"title": "Harry Potter and the Sorcerer's Stone",
-		"author": "J. K. Rowling",
-		"year": 1997
-	},
-```
-
-`speeches.json`
-```json
-	{
-		"quote": "That's one small step for man, one giant leap for mankind.",
-		"person": "Neil Armstrong",
-		"year": 1969
-	},
-```
+[![](https://contributors-img.firebaseapp.com/image?repo=snipey/popular-quotes)](https://github.com/snipey/popular-quotes/graphs/contributors)
 # Social
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/snipeydev?color=blue&style=for-the-badge&logo=twitter)
