@@ -915,5 +915,12 @@
 		"title": "Avengers",
 		"actor": "Robert Downey Jr.",
 		"year": 2019
+	},
+	{
+		"quote": "WHOEVER COMES, WHOEVER IT IS...I’LL KILL THEM. I’LL KILL THEM ALL.",
+		"character": "John Wick",
+		"title": "John Wick",
+		"actor": "Keanu Reeves",
+		"year": 2019
 	}
 ]
