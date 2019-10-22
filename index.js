@@ -15,5 +15,6 @@ module.exports = {
   Speeches: quoteObj('speeches'),
   Books: quoteObj('books'),
   Anime: quoteObj('anime'),
-  Lyrics: quoteObj('lyrics')
+  Lyrics: quoteObj('lyrics'),
+  Sports:quoteObj('sports')
 }
