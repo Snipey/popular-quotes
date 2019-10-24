@@ -915,5 +915,12 @@
 		"title": "Avengers",
 		"actor": "Robert Downey Jr.",
 		"year": 2019
-	}
+	},
+   {
+		"quote": "People hurt the ones they love. That's how it is all around the world",
+		"character": "John Coffey",
+		"title": "The Green Mile",
+		"actor": "Michael Clarke Duncan",
+		"year": 1999
+   }  	
 ]
