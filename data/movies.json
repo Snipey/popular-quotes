@@ -872,7 +872,7 @@
       "character": "Francis Underwood",
       "title": "House of Cards",
       "actor": "Kevin Spacey",
-      "year": 2013,
+      "year": 2013
    },
 	{
 		"quote": "This is your last chance. After this, there is no turning back. You take the blue pill - the story ends, you wake up in your bed and believe whatever you want to believe. You take the red pill - you stay in Wonderland and I show you how deep the rabbit-hole goes.",
@@ -922,5 +922,12 @@
 		"title": "Avengers",
 		"actor": "Robert Downey Jr.",
 		"year": 2019
+	},
+   {
+		"quote": " I will look for you, I will find you... and I will kill you.",
+		"character": "Bryan Mills",
+		"title": "Taken",
+		"actor": "Liam Neeson",
+		"year": 2009
 	}
 ]
