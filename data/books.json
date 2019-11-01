@@ -348,5 +348,12 @@
 		"title": "Alice's Adventures in Wonderland",
 		"author": "Lewis Carroll",
 		"year": 1865
+  },
+  {
+	"quote": "Overcome space, and all we have left is Here. Overcome time, and all we have left is Now.",
+		"character": "Jonathan Livingston",
+		"title": "Jonathan Livingston Seagull : A Story",
+		"author": "Richard Bach",
+		"year": 1970
   }
 ]
