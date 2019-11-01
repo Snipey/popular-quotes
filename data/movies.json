@@ -929,5 +929,26 @@
 		"title": "Interstellar",
 		"actor": "Matthew McConaughey",
 		"year": 2014
-	}
+	},
+	{
+		"quote": "WHOEVER COMES, WHOEVER IT IS...I’LL KILL THEM. I’LL KILL THEM ALL.",
+		"character": "John Wick",
+		"title": "John Wick",
+		"actor": "Keanu Reeves",
+		"year": 2019
+	},
+  {
+    "quote": "Nobody knows this mall like I do.",
+    "character": "Paul Blart",
+    "title": "Paul Blart: Mall Cop",
+    "actor": "Kevin James",
+    "year": 2009
+  },
+  {
+    "quote": "Ain't no rules says a dog can't play basketball.",
+    "character": "Referee #1",
+    "title": "Air Bud",
+    "actor": "Jay Brazeau",
+    "year": 1997
+  }
 ]
