@@ -922,5 +922,20 @@
 		"title": "Avengers",
 		"actor": "Robert Downey Jr.",
 		"year": 2019
+	},
+   {
+		"quote": "I love you 3000",
+		"character": "Iron Man",
+		"title": "Avengers",
+		"actor": "Robert Downey Jr.",
+		"year": 2019
 	}
+	,
+   {
+	"quote": "My mom always said life was like a box of chocolates. You never know what you're gonna get.",
+	"character": "Forrest Gump",
+	"title": "Forrest Gump",
+	"actor": "Tom Hanks",
+	"year": 1994
+   }
 ]
