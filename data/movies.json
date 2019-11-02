@@ -922,13 +922,34 @@
 		"title": "Avengers",
 		"actor": "Robert Downey Jr.",
 		"year": 2019
-	},
+	 },
    {
 		"quote": " I will look for you, I will find you... and I will kill you.",
 		"character": "Bryan Mills",
 		"title": "Taken",
 		"actor": "Liam Neeson",
 		"year": 2009
+	 },
+   {
+		"quote": "People hurt the ones they love. That's how it is all around the world",
+		"character": "John Coffey",
+		"title": "The Green Mile",
+		"actor": "Michael Clarke Duncan",
+		"year": 1999
+   },
+   {
+      "quote": "Sometimes I wonder, will God ever forgive us for what we've done to each other? Then I look around and I realize... God left this place a long time ago.",
+      "character": "Danny Archer",
+      "title": "Blood Diamond",
+      "actor": "Leonardo Di Caprio",
+      "year": 2006
+   },
+   {
+      "quote": "I Know you think she was the one, but I don't.I think you're just remembering the good stuff.",
+      "character": "Rachel Hansen",
+      "title": "500 Days Of Summer",
+      "actor": "Chloë Grace Moretz",
+      "year": 2009
    },
    {
 		"quote": "Mankind was born on earth, It was never meant to die here.",
