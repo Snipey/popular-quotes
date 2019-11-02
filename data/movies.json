@@ -872,7 +872,7 @@
       "character": "Francis Underwood",
       "title": "House of Cards",
       "actor": "Kevin Spacey",
-      "year": 2013,
+      "year": 2013
    },
 	{
 		"quote": "This is your last chance. After this, there is no turning back. You take the blue pill - the story ends, you wake up in your bed and believe whatever you want to believe. You take the red pill - you stay in Wonderland and I show you how deep the rabbit-hole goes.",
@@ -929,5 +929,33 @@
       "title": "500 Days Of Summer",
       "actor": "Chloë Grace Moretz",
       "year": 2009
-   }
+   },
+   {
+		"quote": "Mankind was born on earth, It was never meant to die here.",
+		"character": "Joseph A. Cooper",
+		"title": "Interstellar",
+		"actor": "Matthew McConaughey",
+		"year": 2014
+	},
+	{
+		"quote": "WHOEVER COMES, WHOEVER IT IS...I’LL KILL THEM. I’LL KILL THEM ALL.",
+		"character": "John Wick",
+		"title": "John Wick",
+		"actor": "Keanu Reeves",
+		"year": 2019
+	},
+  {
+    "quote": "Nobody knows this mall like I do.",
+    "character": "Paul Blart",
+    "title": "Paul Blart: Mall Cop",
+    "actor": "Kevin James",
+    "year": 2009
+  },
+  {
+    "quote": "Ain't no rules says a dog can't play basketball.",
+    "character": "Referee #1",
+    "title": "Air Bud",
+    "actor": "Jay Brazeau",
+    "year": 1997
+  }
 ]
