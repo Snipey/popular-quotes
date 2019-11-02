@@ -1,291 +1,299 @@
 [
-    {
-	"quote": "How you doin?",
-	"character": "Joey",
-	"title": "F.R.I.E.N.D.S",
-	"season": 1,
-	"episode": 1,
-	"year": 2000
-    },
-    {
-	"quote": "Joey doesn't share food",
-	"character": "joey",
-	"title": "F.R.I.E.N.D.S",
-	"season": 2,
-	"episode": 1,
-	"year": 2001
-    },
-    {
-	"quote": "I'm not great at advice, can i interest u in a sacrcastic comment",
-	"character": "Chandler",
-	"title": "F.R.I.E.N.D.S",
-	"season": 5,
-	"episode": 6,
-	"year": 2005
-    },
-    {
-        "quote": "You've been BAMBOOZLED!",
-        "character": "Joey Tribbiani",
-        "title": "Friends",
-        "season": 8,
-        "episode": 20,
-        "year": 2002
-    },
-    {
-        "quote": "Danger!",
-        "character": "Phoebe",
-        "title": "Friends",
-        "season": 6,
-        "episode": 17,
-        "year": 2000
-    },
-    {
-        "quote": "Danger!",
-        "character": "Rachel",
-        "title": "Friends",
-        "season": 6,
-        "episode": 17,
-        "year": 2000
-    },
-    {
-        "quote": "AHHHHHHHH!",
-        "character": "Ross",
-        "title": "Friends",
-        "season": 6,
-        "episode": 17,
-        "year": 2000
-    },
-    {
-        "quote": "AHHHHHHHH!",
-        "character": "Ross",
-        "title": "Friends",
-        "season": 6,
-        "episode": 17,
-        "year": 2000
-    },
-    {
-        "quote": "Ah, salmon skin roll.",
-        "character": "Rachel",
-        "title": "Friends",
-        "season": 6,
-        "episode": 17,
-        "year": 2000
-    },
-    {
-        "quote": "If he doesn't like you this is all a moo point. Yeah, it's like a cow's opinion. It just doesn't matter. It's moo.",
-        "character": "Joey Tribbiani",
-        "title": "Friends",
-        "season": 7,
-        "episode": 8,
-        "year": 2000
-    },
-    {
-        "quote": "But they don't know that we know they know we know!",
-        "character": "Phoebe",
-        "title": "Friends",
-        "season": 5,
-        "episode": 14,
-        "year": 1999
-    },
+  {
+    "quote": "How you doin?",
+    "character": "Joey",
+    "title": "F.R.I.E.N.D.S",
+    "season": 1,
+    "episode": 1,
+    "year": 2000
+  },
+  {
+    "quote": "Joey doesn't share food",
+    "character": "joey",
+    "title": "F.R.I.E.N.D.S",
+    "season": 2,
+    "episode": 1,
+    "year": 2001
+  },
+  {
+    "quote": "I'm not great at advice, can i interest u in a sacrcastic comment",
+    "character": "Chandler",
+    "title": "F.R.I.E.N.D.S",
+    "season": 5,
+    "episode": 6,
+    "year": 2005
+  },
+  {
+    "quote": "You've been BAMBOOZLED!",
+    "character": "Joey Tribbiani",
+    "title": "Friends",
+    "season": 8,
+    "episode": 20,
+    "year": 2002
+  },
+  {
+    "quote": "Danger!",
+    "character": "Phoebe",
+    "title": "Friends",
+    "season": 6,
+    "episode": 17,
+    "year": 2000
+  },
+  {
+    "quote": "Danger!",
+    "character": "Rachel",
+    "title": "Friends",
+    "season": 6,
+    "episode": 17,
+    "year": 2000
+  },
+  {
+    "quote": "AHHHHHHHH!",
+    "character": "Ross",
+    "title": "Friends",
+    "season": 6,
+    "episode": 17,
+    "year": 2000
+  },
+  {
+    "quote": "AHHHHHHHH!",
+    "character": "Ross",
+    "title": "Friends",
+    "season": 6,
+    "episode": 17,
+    "year": 2000
+  },
+  {
+    "quote": "Ah, salmon skin roll.",
+    "character": "Rachel",
+    "title": "Friends",
+    "season": 6,
+    "episode": 17,
+    "year": 2000
+  },
+  {
+    "quote": "If he doesn't like you this is all a moo point. Yeah, it's like a cow's opinion. It just doesn't matter. It's moo.",
+    "character": "Joey Tribbiani",
+    "title": "Friends",
+    "season": 7,
+    "episode": 8,
+    "year": 2000
+  },
+  {
+    "quote": "But they don't know that we know they know we know!",
+    "character": "Phoebe",
+    "title": "Friends",
+    "season": 5,
+    "episode": 14,
+    "year": 1999
+  },
 
-    {
-        "quote": "Fine! Judge all you want, but: married a lesbian, left a man at the altar, fell in love with a gay ice dancer, threw a girl’s wooden leg in a fire, LIVE IN A BOX!",
-        "character": "Monica",
-        "title": "Friends",
-        "season": 7,
-        "episode": 2,
-        "year": 2000
-    },
-    {
-        "quote": "Chandler entered a Vanilla Ice lookalike contest and WON!",
-        "character": "Ross",
-        "title": "Friends",
-        "season": 7,
-        "episode": 4,
-        "year": 2000
-    },
-    {
-        "quote": "Ross came fourth and CRIED!",
-        "character": "Chandler",
-        "title": "Friends",
-        "season": 7,
-        "episode": 4,
-        "year": 2000
-    },
-    {
-        "quote": "Raspberries. More ladyfingers.…Custard? Good! Jam ? Good. Meat? Goooood!",
-        "character": "Joey",
-        "title": "Friends",
-        "season": 6,
-        "episode": 9,
-        "year": 1999
-    },
-    {
-        "quote": "Hey, just so you know: it's NOT that common, it DOESN’T ‘happen to every guy,’ and it IS a big deal!",
-        "character": "Rachel",
-        "title": "Friends",
-        "season": 4,
-        "episode": 1,
-        "year": 1997
-    },
-    {
-        "quote": "I KNEW it!",
-        "character": "Ross",
-        "title": "Friends",
-        "season": 4,
-        "episode": 1,
-        "year": 1997
-    },
-    {
-        "quote": "He must decide. He must decide. Even though I made him up, he must decide!",
-        "character": "Phoebe",
-        "title": "Friends",
-        "season": 2,
-        "episode": 8,
-        "year": 1995
-    },
-    {
-        "quote": "All right, kids, I gotta get to work. If I don't input those numbers...it doesn't make much of a difference.",
-        "character": "Chandler",
-        "title": "Friends",
-        "season": 1,
-        "episode": 3,
-        "year": 1994
-    },
-    {
-        "quote": "Man this is weird. You ever realize Captain Crunch's eyebrows are actually on his hat?",
-        "character": "Joey",
-        "title": "Friends",
-        "season": 2,
-        "episode": 16,
-        "year": 1996
-    },
-    {
-        "quote": "You think that's what's weird? Joey, the man's been captain of a cereal for the last 40 years.",
-        "character": "Chandler",
-        "title": "Friends",
-        "season": 2,
-        "episode": 16,
-        "year": 1996
-    },
-    {
-        "quote": "My motto is get out before they go down.",
-        "character": "Monica",
-        "title": "Friends",
-        "season": 2,
-        "episode": 21,
-        "year": 1996
-    },
-    {
-        "quote": "That is so not my motto.",
-        "character": "Joey",
-        "title": "Friends",
-        "season": 2,
-        "episode": 21,
-        "year": 1996
-    },
-    {
-        "quote": "They're still not coming on, man! And the lotion and the powder have made a paste!",
-        "character": "Ross",
-        "title": "Friends",
-        "season": 5,
-        "episode": 11,
-        "year": 1999
-    },
-    {
-        "quote": "Look around you guys this was your first home and it was a happy place filled with love and laughter but more importantly because it was rent controlled it was a freakin steel",
-        "character": "Chandler",
-        "title": "Friends",
-        "season": 10,
-        "episode": 18,
-        "year": 2004
-    },
-    {
-        "quote": "Chandler. I sensed it was you.",
-        "character": "Ross",
-        "title": "Friends",
-        "season": 6,
-        "episode": 17,
-        "year": 2000
-    },
-    {
-        "quote": "'Unagi.' I'm always aware.",
-        "character": "Ross",
-        "title": "Friends",
-        "season": 6,
-        "episode": 17,
-        "year": 2000
-    },
-    {
-        "quote": "Are you aware that unagi is an eel?",
-        "character": "Chandler",
-        "title": "Friends",
-        "season": 6,
-        "episode": 17,
-        "year": 2000
-    },
-    {
-        "quote": "Whenever you can, put a company in your mouth.",
-        "character": "Bobby Axelrod",
-        "title": "Billions",
-        "season": 1,
-        "episode": 3,
-        "year": 2016
-    },
-    {
-        "quote": "A day without casualties was like - well, like the Cubs winning the pennant - it just never happened",
-        "character": "James",
-        "title": "Flash",
-        "season": 1,
-        "episode": 17,
-        "year": 2014
-    },
-    {
-        "quote": "Bears, Beets, Battlestar Galactica.",
-        "character": "Jim Halpert",
-        "title": "The Office US",
-        "season": 3,
-        "episode": 21,
-        "year": 2007
-    },
-    {
-        "quote": "I. Declare. Bankruptcy!",
-        "character": "Michael Scott",
-        "title": "The Office US",
-        "season": 4,
-        "episode": 7-8,
-        "year": 2007
-    },
-    {
-        "quote": "I'm not superstitious, but I am a little-stitious.",
-        "character": "Michael Scott",
-        "title": "The Office US",
-        "season": 4,
-        "episode": 1-2,
-        "year": 2007
-    },
-    {
-        "quote": "The worst thing about prison was the... was the Dementors.",
-        "character": "Michael Scott",
-        "title": "The Office US",
-        "season": 3,
-        "episode": 9,
-        "year": 2007
-    },
-    {
-        "quote": "Saw Inception. Or at least I dreamt I did.",
-        "character": "Michael Scott",
-        "title": "The Office US",
-        "season": 7,
-        "episode": 1,
-        "year": 2007
-    },
-    {
-        "quote": "Well, well, well, how the turntables.",
-        "character": "Michael Scott",
-        "title": "The Office US",
-        "season": 5,
-        "episode": 25,
-        "year": 2007
-    }
+  {
+    "quote": "Fine! Judge all you want, but: married a lesbian, left a man at the altar, fell in love with a gay ice dancer, threw a girl’s wooden leg in a fire, LIVE IN A BOX!",
+    "character": "Monica",
+    "title": "Friends",
+    "season": 7,
+    "episode": 2,
+    "year": 2000
+  },
+  {
+    "quote": "Chandler entered a Vanilla Ice lookalike contest and WON!",
+    "character": "Ross",
+    "title": "Friends",
+    "season": 7,
+    "episode": 4,
+    "year": 2000
+  },
+  {
+    "quote": "Ross came fourth and CRIED!",
+    "character": "Chandler",
+    "title": "Friends",
+    "season": 7,
+    "episode": 4,
+    "year": 2000
+  },
+  {
+    "quote": "Raspberries. More ladyfingers.…Custard? Good! Jam ? Good. Meat? Goooood!",
+    "character": "Joey",
+    "title": "Friends",
+    "season": 6,
+    "episode": 9,
+    "year": 1999
+  },
+  {
+    "quote": "Hey, just so you know: it's NOT that common, it DOESN’T ‘happen to every guy,’ and it IS a big deal!",
+    "character": "Rachel",
+    "title": "Friends",
+    "season": 4,
+    "episode": 1,
+    "year": 1997
+  },
+  {
+    "quote": "I KNEW it!",
+    "character": "Ross",
+    "title": "Friends",
+    "season": 4,
+    "episode": 1,
+    "year": 1997
+  },
+  {
+    "quote": "He must decide. He must decide. Even though I made him up, he must decide!",
+    "character": "Phoebe",
+    "title": "Friends",
+    "season": 2,
+    "episode": 8,
+    "year": 1995
+  },
+  {
+    "quote": "All right, kids, I gotta get to work. If I don't input those numbers...it doesn't make much of a difference.",
+    "character": "Chandler",
+    "title": "Friends",
+    "season": 1,
+    "episode": 3,
+    "year": 1994
+  },
+  {
+    "quote": "Man this is weird. You ever realize Captain Crunch's eyebrows are actually on his hat?",
+    "character": "Joey",
+    "title": "Friends",
+    "season": 2,
+    "episode": 16,
+    "year": 1996
+  },
+  {
+    "quote": "You think that's what's weird? Joey, the man's been captain of a cereal for the last 40 years.",
+    "character": "Chandler",
+    "title": "Friends",
+    "season": 2,
+    "episode": 16,
+    "year": 1996
+  },
+  {
+    "quote": "My motto is get out before they go down.",
+    "character": "Monica",
+    "title": "Friends",
+    "season": 2,
+    "episode": 21,
+    "year": 1996
+  },
+  {
+    "quote": "That is so not my motto.",
+    "character": "Joey",
+    "title": "Friends",
+    "season": 2,
+    "episode": 21,
+    "year": 1996
+  },
+  {
+    "quote": "They're still not coming on, man! And the lotion and the powder have made a paste!",
+    "character": "Ross",
+    "title": "Friends",
+    "season": 5,
+    "episode": 11,
+    "year": 1999
+  },
+  {
+    "quote": "Look around you guys this was your first home and it was a happy place filled with love and laughter but more importantly because it was rent controlled it was a freakin steel",
+    "character": "Chandler",
+    "title": "Friends",
+    "season": 10,
+    "episode": 18,
+    "year": 2004
+  },
+  {
+    "quote": "Chandler. I sensed it was you.",
+    "character": "Ross",
+    "title": "Friends",
+    "season": 6,
+    "episode": 17,
+    "year": 2000
+  },
+  {
+    "quote": "'Unagi.' I'm always aware.",
+    "character": "Ross",
+    "title": "Friends",
+    "season": 6,
+    "episode": 17,
+    "year": 2000
+  },
+  {
+    "quote": "Are you aware that unagi is an eel?",
+    "character": "Chandler",
+    "title": "Friends",
+    "season": 6,
+    "episode": 17,
+    "year": 2000
+  },
+  {
+    "quote": "Whenever you can, put a company in your mouth.",
+    "character": "Bobby Axelrod",
+    "title": "Billions",
+    "season": 1,
+    "episode": 3,
+    "year": 2016
+  },
+  {
+    "quote": "A day without casualties was like - well, like the Cubs winning the pennant - it just never happened",
+    "character": "James",
+    "title": "Flash",
+    "season": 1,
+    "episode": 17,
+    "year": 2014
+  },
+  {
+    "quote": "Bears, Beets, Battlestar Galactica.",
+    "character": "Jim Halpert",
+    "title": "The Office US",
+    "season": 3,
+    "episode": 21,
+    "year": 2007
+  },
+  {
+    "quote": "I. Declare. Bankruptcy!",
+    "character": "Michael Scott",
+    "title": "The Office US",
+    "season": 4,
+    "episode": 8,
+    "year": 2007
+  },
+  {
+    "quote": "I'm not superstitious, but I am a little-stitious.",
+    "character": "Michael Scott",
+    "title": "The Office US",
+    "season": 4,
+    "episode": 2,
+    "year": 2007
+  },
+  {
+    "quote": "The worst thing about prison was the... was the Dementors.",
+    "character": "Michael Scott",
+    "title": "The Office US",
+    "season": 3,
+    "episode": 9,
+    "year": 2007
+  },
+  {
+    "quote": "Saw Inception. Or at least I dreamt I did.",
+    "character": "Michael Scott",
+    "title": "The Office US",
+    "season": 7,
+    "episode": 1,
+    "year": 2007
+  },
+  {
+    "quote": "Well, well, well, how the turntables.",
+    "character": "Michael Scott",
+    "title": "The Office US",
+    "season": 5,
+    "episode": 25,
+    "year": 2007
+  },
+  {
+    "quote": "Control can sometimes be an illusion",
+    "character": "Elliot Alderson",
+    "title": "Mr Robot",
+    "season": 2,
+    "episode": 7,
+    "year": 2015
+  }
 ]
