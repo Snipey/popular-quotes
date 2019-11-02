@@ -40,5 +40,17 @@
     "episode": 1,
     "title": "Diamond no Ace",
     "year": 2013
-  }  
+  },
+  {
+    "quote": "What's the point in worrying about the past. A real star keeps moving forward!",
+    "episode": 11,
+    "title": "Black Star",
+    "year": 2008
+  },
+  {
+    "quote": "Just believe in yourself. Not in the Simon that I believe in. Not in the Kamina that you believe in. Have faith in the Simon that believes in you.",
+    "episode": 8,
+    "title": "Gurren Lagann",
+    "year": 2007
+  }
 ]
