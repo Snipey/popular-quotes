@@ -1,14 +1,7 @@
-const movie = require('./data/movies.json');
-const tv = require('./data/tv.json');
-const speeches = require('./data/speeches.json');
-const books = require('./data/books.json');
-const anime = require('./data/anime.json');
-const lyrics = require('./data/lyrics.json');
-
 // Import Util Lib
 const utils = require("./lib/utils")
-
-const quoteObj = (quotes) =>{
+const quoteObj = (quoteFile) =>{
+  const quotes = require(`./data/${quoteFile}.json`)
   return {
     quotes: quotes,
     getRandom: ()=>utils.getRandom(quotes),
@@ -17,10 +10,11 @@ const quoteObj = (quotes) =>{
   }
 }
 module.exports = {
-  Movies: quoteObj(movie),
-  Tv: quoteObj(tv),
-  Speeches: quoteObj(speeches),
-  Books: quoteObj(books),
-  Anime: quoteObj(anime),
-  Lyrics: quoteObj(lyrics)
+  Movies: quoteObj('movies'),
+  Tv: quoteObj('tv'),
+  Speeches: quoteObj('speeches'),
+  Books: quoteObj('books'),
+  Anime: quoteObj('anime'),
+  Lyrics: quoteObj('lyrics'),
+  Sports:quoteObj('sports')
 }
